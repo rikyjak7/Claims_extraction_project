@@ -1,14 +1,49 @@
 import os
 import json
-from Local_T5_Model import extract_claims_with_flan_t5
+from Table_Dictionary import table_types
+import Extraction_methods
 
 #Per ogni tabella estrae i claims con un LLM e li scrive su un file Json
 def extract_table_data(json_file): 
 
     for table_id, table_details in json_file.items():
-        #"references": table_details.get("references", []),
-        claims = extract_claims_with_flan_t5(table_details.get("table", None),table_details.get("caption", None),"")
-        parse_claims_to_json(claims)
+        if(table_id in table_types):
+            table_type= table_types[table_id]
+            if(table_type == "relational"):
+                claims= Extraction_methods.extractclaims_from_relational_table(table_details["table"])
+            elif(table_type == "nested relational"):
+                None #metodo per Nested rel.
+            elif(table_type == "cross-table"):
+                None #metodo per cross-table
+            elif(table_type == "cross-table"):
+                None #metodo per nested cross 
+
+            #codice per LLM
+
+
+#reitera l'estrazione dei claims su tutti i file nella directory
+def process_directory():
+
+    directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria_dei_dati/HW4/10_samples/arxiv_10_json"
+    # Controlla che il percorso sia una cartella
+    if not os.path.isdir(directory):
+        print(f"{directory} non è una cartella valida!")
+        return
+    
+    # Itera sui file nella cartella
+    for file_name in os.listdir(directory):
+        file_path = os.path.join(directory, file_name)
+        
+        # Verifica che sia un file JSON
+        if file_name.endswith('.json') and os.path.isfile(file_path):
+            try:
+                # Apri il file JSON
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    json_file = json.load(file)  # Leggi il contenuto del file
+                    extract_table_data(json_file)
+            except Exception as e:
+                print(f"Errore nell'elaborazione di {file_name}: {e}")
+
 
 #Scrive i claims sul json
 def parse_claims_to_json(claims):
@@ -34,38 +69,3 @@ def parse_claims_to_json(claims):
 
     # Convert to JSON format
     return json.dumps(output, indent=4)
-
-# Example claims list
-claims = [
-    "|{|Dataset, LUBM-8000|, |RL-GRAPH partitions, 500 subgraphs|, |# cutting edges, 23,624,351|, |replication factor alpha, 1.23|}|",
-    "|{|Dataset, LUBM-20480|, |RL-GRAPH partitions, 500 subgraphs|, |# cutting edges, 61,518,672|, |replication factor alpha, 1.21|}|",
-    "|{|Dataset, SNIB-15000|, |RL-GRAPH partitions, 500 subgraphs|, |# cutting edges, 58,823,356|, |replication factor alpha, 1.52|}|"
-]
-
-# Generate the JSON
-json_output = parse_claims_to_json(claims)
-print(json_output)
-
-
-#reitera l'estrazione dei claims su tutti i file nella directory
-def process_directory():
-
-    directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria_dei_dati/HW4/10_samples/arxiv_10_json"
-    # Controlla che il percorso sia una cartella
-    if not os.path.isdir(directory):
-        print(f"{directory} non è una cartella valida!")
-        return
-    
-    # Itera sui file nella cartella
-    for file_name in os.listdir(directory):
-        file_path = os.path.join(directory, file_name)
-        
-        # Verifica che sia un file JSON
-        if file_name.endswith('.json') and os.path.isfile(file_path):
-            try:
-                # Apri il file JSON
-                with open(file_path, 'r', encoding='utf-8') as file:
-                    json_file = json.load(file)  # Leggi il contenuto del file
-                    extract_table_data(json_file)
-            except Exception as e:
-                print(f"Errore nell'elaborazione di {file_name}: {e}")

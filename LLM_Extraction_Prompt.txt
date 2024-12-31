@@ -1,8 +1,8 @@
 Ti fornirò:
 
-Una lista di celle, organizzate riga per riga, che rappresentano una tabella HTML. Ogni cella è composta da una coppia {nome, valore}.
-Una caption della tabella che descrive brevemente il suo contenuto.
-Alcuni paragraphs come contesto aggiuntivo che possono fornire chiarimenti o spiegazioni sui dati riportati.
+-Una lista di celle, organizzate riga per riga, che rappresentano una tabella HTML. Ogni cella è composta da una coppia {nome, valore}.
+-Una caption della tabella che descrive brevemente il suo contenuto.
+-Alcuni paragraphs come contesto aggiuntivo che possono fornire chiarimenti o spiegazioni sui dati riportati.
 
 Il tuo compito è:
 
@@ -11,7 +11,7 @@ Il tuo compito è:
 Le specifiche descrivono i dettagli dell'esperimento o del modello (come dimensione, configurazioni o altre proprietà).
 Le metriche di output descrivono esclusivamente i risultati di valutazione o performance.
 -Crea un output per ogni riga della tabella nel seguente formato:
-|{Specification, Specification, …}, Measure, Outcome|
+|{|Specification|, |Specification|, …}, Measure, Outcome|
 
 Dove:
 
@@ -35,11 +35,13 @@ Paragraphs: "We evaluate models based on Accuracy (%) and F1-measure using Datas
 
 Output atteso:
 
-|{Model, ModelA, Dataset, DatasetX, #Params, 100M}, Accuracy (%), 92.3|  
-|{Model, ModelA, Dataset, DatasetX, #Params, 100M}, F1-measure, 0.89|  
-|{Model, ModelB, Dataset, DatasetY, #Params, 200M}, Accuracy (%), 89.7|
+|{|Model, ModelA|, |Dataset, DatasetX|, |#Params, 100M|}, Accuracy (%), 92.3|  
+|{|Model, ModelA|, |Dataset, DatasetX|, |#Params, 100M|}, F1-measure, 0.89|  
+|{|Model, ModelB|, |Dataset, DatasetY|, |#Params, 200M|}, Accuracy (%), 89.7|
 
-Concentrati solo sui dati forniti e non fare inferenze al di fuori di ciò che è descritto esplicitamente. Se qualcosa non è chiaro, interpreta in modo conservativo basandoti su caption e paragraphs. Astieniti dal restituire informazioni aggiuntive o note ulteriori che esulano dall'output richiesto da noi.
+Concentrati solo sui dati forniti e non fare inferenze al di fuori di ciò che è descritto esplicitamente.
+Se qualcosa non è chiaro, interpreta in modo conservativo basandoti su caption e paragraphs.
+Astieniti dal restituire informazioni aggiuntive o note ulteriori che esulano dall'output richiesto da noi.
 
 I dati su cui devi lavorare sono:
 

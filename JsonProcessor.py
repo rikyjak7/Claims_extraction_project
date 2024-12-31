@@ -10,21 +10,23 @@ def extract_table_data(json_file):
         if(table_id in table_types):
             table_type= table_types[table_id]
             if(table_type == "relational"):
-                claims= Extraction_methods.extract_claims_from_relational_table(table_details["table"])
+                rows= Extraction_methods.extract_claims_from_relational_table(table_details["table"]) #non sono i claims finali
             elif(table_type == "nested relational"):
                 None #metodo per Nested rel.
             elif(table_type == "cross-table"):
                 None #metodo per cross-table
-            elif(table_type == "cross-table"):
+            elif(table_type == "nested cross-table"):
                 None #metodo per nested cross 
 
-            #codice per LLM
+            #codice per LLM per estrarre i claims a partire dalle rows
 
 
 #reitera l'estrazione dei claims su tutti i file nella directory
 def process_directory():
 
-    directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria_dei_dati/HW4/10_samples/arxiv_10_json"
+    #directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria_dei_dati/HW4/10_samples/arxiv_10_json"
+    directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria_dei_dati/HW4/Test_1json"
+
     # Controlla che il percorso sia una cartella
     if not os.path.isdir(directory):
         print(f"{directory} non è una cartella valida!")

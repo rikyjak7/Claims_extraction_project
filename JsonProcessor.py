@@ -10,7 +10,7 @@ def extract_table_data(json_file):
         if(table_id in table_types):
             table_type= table_types[table_id]
             if(table_type == "relational"):
-                claims= Extraction_methods.extractclaims_from_relational_table(table_details["table"])
+                claims= Extraction_methods.extract_claims_from_relational_table(table_details["table"])
             elif(table_type == "nested relational"):
                 None #metodo per Nested rel.
             elif(table_type == "cross-table"):

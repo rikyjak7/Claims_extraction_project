@@ -22,7 +22,7 @@ Outcome: il valore corrispondente alla misura di output (ad esempio, "0.89", "13
 Regole:
 -Utilizza i paragraphs e la caption per interpretare quali informazioni sono specifiche e quali sono metriche di output.
 -Se una riga contiene più metriche di output, suddividi la riga in più righe, ciascuna con una sola misura e un solo valore di outcome.
--Includi eventuali valori mancanti indicandoli come "-" dalla sezione delle specifiche o metriche.
+-Includi eventuali valori mancanti indicandoli come "-none-" dalla sezione delle specifiche o metriche.
 
 Esempio generico:
 

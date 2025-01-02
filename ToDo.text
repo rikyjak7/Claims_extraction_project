@@ -11,3 +11,4 @@ Still to be done:
 -tiriamo fuori(per ogni claim) dalle specifications la metrica e il suo value 
 -troviamo eventuali nuove specifications da caption e rerference e li aggiungiamo ai vari claims
 (Potenzialmente con 2 prompt diversi)
+2)Modifica prompt per precedenza alla caption

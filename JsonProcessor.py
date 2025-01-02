@@ -24,7 +24,7 @@ def extract_table_data(json_file):
                 for row in rows:
                     print(row)
             elif(table_type == "nested cross-table"):
-                rows= Extraction_methods.extract_claims_from_relational_table(table_details["table"]) #non sono i claims finali
+                rows= Extraction_methods.extract_claims_from_nested_relational_table(table_details["table"]) #non sono i claims finali
                 for row in rows:
                     print(row)
             print("\n")

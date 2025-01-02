@@ -9,14 +9,28 @@ def extract_table_data(json_file):
     for table_id, table_details in json_file.items():
         if(table_id in table_types):
             table_type= table_types[table_id]
+            print("Id Tabella:" + table_id)
+            print("Tipo Tabella:" + table_type)
             if(table_type == "relational"):
                 rows= Extraction_methods.extract_claims_from_relational_table(table_details["table"]) #non sono i claims finali
+                for row in rows:
+                    print(row)
             elif(table_type == "nested relational"):
-                None #metodo per Nested rel.
+                rows= Extraction_methods.extract_claims_from_nested_relational_table(table_details["table"]) #non sono i claims finali
+                for row in rows:
+                    print(row)
             elif(table_type == "cross-table"):
-                None #metodo per cross-table
+                rows= Extraction_methods.extract_claims_from_relational_table(table_details["table"]) #non sono i claims finali
+                for row in rows:
+                    print(row)
             elif(table_type == "nested cross-table"):
-                None #metodo per nested cross 
+                rows= Extraction_methods.extract_claims_from_relational_table(table_details["table"]) #non sono i claims finali
+                for row in rows:
+                    print(row)
+            print("\n")
+        else:
+            print("tabella non inclusa nel dizionario \n")
+        
 
             #codice per LLM per estrarre i claims a partire dalle rows
 
@@ -24,8 +38,8 @@ def extract_table_data(json_file):
 #reitera l'estrazione dei claims su tutti i file nella directory
 def process_directory():
 
-    #directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria_dei_dati/HW4/10_samples/arxiv_10_json"
-    directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria_dei_dati/HW4/Test_1json"
+    directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria dei dati/HW4/10_samples/arxiv_10_json"
+    #directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria_dei_dati/HW4/Test_1json"
 
     # Controlla che il percorso sia una cartella
     if not os.path.isdir(directory):
@@ -41,10 +55,11 @@ def process_directory():
             try:
                 # Apri il file JSON
                 with open(file_path, 'r', encoding='utf-8') as file:
+                    print("nome del file:" + file_name + "\n")
                     json_file = json.load(file)  # Leggi il contenuto del file
                     extract_table_data(json_file)
             except Exception as e:
-                print(f"Errore nell'elaborazione di {file_name}: {e}")
+                print(f"Errore nell'elaborazione di {file_name}: {e}")
 
 
 #Scrive i claims sul json
@@ -71,3 +86,5 @@ def parse_claims_to_json(claims):
 
     # Convert to JSON format
     return json.dumps(output, indent=4)
+
+process_directory()

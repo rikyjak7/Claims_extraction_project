@@ -1,9 +1,6 @@
 from bs4 import BeautifulSoup
 
 # Esempio di utilizzo
-html_content = '''
-            <table class=\"ltx_tabular ltx_guessed_headers ltx_align_middle\" id=\"S4.T2.5.1\">\n<thead class=\"ltx_thead\">\n<tr class=\"ltx_tr\" id=\"S4.T2.5.1.1.1\">\n<th class=\"ltx_td ltx_align_left ltx_th ltx_th_column ltx_th_row ltx_border_tt\" id=\"S4.T2.5.1.1.1.1\">Model</th>\n<th class=\"ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_tt\" id=\"S4.T2.5.1.1.1.2\"><span class=\"ltx_text ltx_font_bold\" id=\"S4.T2.5.1.1.1.2.1\">L=0.5</span></th>\n<th class=\"ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_tt\" id=\"S4.T2.5.1.1.1.3\"><span class=\"ltx_text ltx_font_bold\" id=\"S4.T2.5.1.1.1.3.1\">L=0.2</span></th>\n<th class=\"ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_tt\" id=\"S4.T2.5.1.1.1.4\"><span class=\"ltx_text ltx_font_bold\" id=\"S4.T2.5.1.1.1.4.1\">L=0.1</span></th>\n<th class=\"ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_tt\" id=\"S4.T2.5.1.1.1.5\"><span class=\"ltx_text ltx_font_bold\" id=\"S4.T2.5.1.1.1.5.1\">L=0.05</span></th>\n<th class=\"ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_tt\" id=\"S4.T2.5.1.1.1.6\"><span class=\"ltx_text ltx_font_bold\" id=\"S4.T2.5.1.1.1.6.1\">L=0.02</span></th>\n</tr>\n<tr class=\"ltx_tr\" id=\"S4.T2.5.1.2.2\">\n<th class=\"ltx_td ltx_align_left ltx_th ltx_th_column ltx_th_row ltx_border_t\" id=\"S4.T2.5.1.2.2.1\">GPT2-small</th>\n<th class=\"ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_t\" id=\"S4.T2.5.1.2.2.2\">0.131</th>\n<th class=\"ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_t\" id=\"S4.T2.5.1.2.2.3\">0.135</th>\n<th class=\"ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_t\" id=\"S4.T2.5.1.2.2.4\">0.131</th>\n<th class=\"ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_t\" id=\"S4.T2.5.1.2.2.5\">0.135</th>\n<th class=\"ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_t\" id=\"S4.T2.5.1.2.2.6\">0.132</th>\n</tr>\n</thead>\n<tbody class=\"ltx_tbody\">\n<tr class=\"ltx_tr\" id=\"S4.T2.5.1.3.1\">\n<th class=\"ltx_td ltx_align_left ltx_th ltx_th_row ltx_border_t\" id=\"S4.T2.5.1.3.1.1\">GPT2-small-</th>\n<td class=\"ltx_td ltx_border_t\" id=\"S4.T2.5.1.3.1.2\"/>\n<td class=\"ltx_td ltx_border_t\" id=\"S4.T2.5.1.3.1.3\"/>\n<td class=\"ltx_td ltx_border_t\" id=\"S4.T2.5.1.3.1.4\"/>\n<td class=\"ltx_td ltx_border_t\" id=\"S4.T2.5.1.3.1.5\"/>\n<td class=\"ltx_td ltx_border_t\" id=\"S4.T2.5.1.3.1.6\"/>\n</tr>\n<tr class=\"ltx_tr\" id=\"S4.T2.5.1.4.2\">\n<th class=\"ltx_td ltx_align_left ltx_th ltx_th_row ltx_border_bb\" id=\"S4.T2.5.1.4.2.1\">share-encoder</th>\n<td class=\"ltx_td ltx_align_center ltx_border_bb\" id=\"S4.T2.5.1.4.2.2\"><span class=\"ltx_text ltx_font_bold\" id=\"S4.T2.5.1.4.2.2.1\">0.248</span></td>\n<td class=\"ltx_td ltx_align_center ltx_border_bb\" id=\"S4.T2.5.1.4.2.3\"><span class=\"ltx_text ltx_font_bold\" id=\"S4.T2.5.1.4.2.3.1\">0.265</span></td>\n<td class=\"ltx_td ltx_align_center ltx_border_bb\" id=\"S4.T2.5.1.4.2.4\"><span class=\"ltx_text ltx_font_bold\" id=\"S4.T2.5.1.4.2.4.1\">0.264</span></td>\n<td class=\"ltx_td ltx_align_center ltx_border_bb\" id=\"S4.T2.5.1.4.2.5\"><span class=\"ltx_text ltx_font_bold\" id=\"S4.T2.5.1.4.2.5.1\">0.255</span></td>\n<td class=\"ltx_td ltx_align_center ltx_border_bb\" id=\"S4.T2.5.1.4.2.6\"><span class=\"ltx_text ltx_font_bold\" id=\"S4.T2.5.1.4.2.6.1\">0.251</span></td>\n</tr>\n</tbody>\n</table>\n\n
-'''
 def extract_claims_from_relational_table(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     table = soup.find('table')
@@ -28,13 +25,73 @@ def extract_claims_from_relational_table(html_content):
             
             # Combina intestazioni e celle
             row_data = [f"|{col_headers[i]}, {cells[i].get_text(strip=True)}|" for i in range(len(cells))]
-            extracted_data.append(f"{{{', '.join(row_data)}}}")
+            extracted_data.append(f"{', '.join(row_data)}")
 
         #extracted_data in input al LLM con LLM_Extraction_Prompt per generare i claims corretti
 
     return extracted_data
 
-claims = extract_claims_from_relational_table(html_content)
-for claim in claims:
-    print(claim)
+from bs4 import BeautifulSoup
 
+def extract_claims_from_nested_relational_table(html_content):
+    # Parsing HTML
+    soup = BeautifulSoup(html_content, 'html.parser')
+    table = soup.find('table')
+    if not table:
+        return []  # Ritorno vuoto se la tabella non esiste
+
+    rows = table.find_all('tr')
+    if not rows:
+        return []  # Nessuna riga trovata
+
+    # Determinazione delle intestazioni di colonna
+    col_headers = []
+    first_data_row = 1  # Default a partire dalla seconda riga
+    if len(rows) > 1:
+        col_headers = [th.get_text(strip=True) for th in rows[0].find_all(['th', 'td'])]
+        col_headers_2nd_row = [th.get_text(strip=True) for th in rows[1].find_all(['th', 'td'])]
+
+        if len(col_headers) != len(col_headers_2nd_row) or any(h == "" for h in col_headers):
+            col_headers = [a + " " + b for a, b in zip(col_headers, col_headers_2nd_row)]
+            first_data_row = 2  # Skippa la seconda riga se è parte delle intestazioni
+
+    # Gestione delle celle con rowspan
+    rowspan_data = {}
+    extracted_data = []
+
+    for row in rows[first_data_row:]:
+        cells = row.find_all(['td', 'th'])
+        row_data = []
+        cell_index = 0
+
+        for i, header in enumerate(col_headers):
+            if i in rowspan_data and rowspan_data[i]['span'] > 0:
+                # Usa dati esistenti da rowspan
+                row_data.append(f"|{header}, {rowspan_data[i]['text']}|")
+                rowspan_data[i]['span'] -= 1
+            elif cell_index < len(cells):
+                # Nuova cella
+                cell = cells[cell_index]
+                cell_text = cell.get_text(strip=True) or None  # Vuota non significa "N/A" qui
+                row_data.append(f"|{header}, {cell_text if cell_text else ''}|")
+                if cell.has_attr('rowspan'):
+                    rowspan_data[i] = {'text': cell_text, 'span': int(cell['rowspan']) - 1}
+                cell_index += 1
+            else:
+                # Cella mancante
+                row_data.append(f"|{header}, |")  # Mantenere il campo vuoto
+
+        extracted_data.append(row_data)
+
+    # Fusione delle righe mancanti basata su logica di eredità
+    merged_data = []
+    for i, current_row in enumerate(extracted_data):
+        if i > 0:
+            previous_row = merged_data[-1]
+            for j in range(len(current_row)):
+                # Mantieni vuoto se non c'è una dipendenza di rowspan
+                if "N/A" in current_row[j] or current_row[j].endswith(", |") and j in rowspan_data:
+                    current_row[j] = previous_row[j]
+        merged_data.append(", ".join(current_row))
+
+    return merged_data

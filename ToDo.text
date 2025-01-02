@@ -1,8 +1,13 @@
 Already done:
 1)Abbiamo eliminato 2 tabelle in quanto avevano chiavi duplicate
+2)Eliminato file inappropriato
+3)Id file e table con modifiche post-estrazione(HW1): 
+Paper 2410.04960: S4.T3.2; S4.T4.2
+
+
 
 Still to be done:
-2)Estrarre i claims come se fossero all-specifications-made, poi con LLM:
+1)Estrarre i claims come se fossero all-specifications-made, poi con LLM:
 -tiriamo fuori(per ogni claim) dalle specifications la metrica e il suo value 
 -troviamo eventuali nuove specifications da caption e rerference e li aggiungiamo ai vari claims
 (Potenzialmente con 2 prompt diversi)

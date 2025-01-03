@@ -1,1 +1,32 @@
+# Ignora l'ambiente virtuale
+claims-extraction-venv/
+
+# File Api
 API_key.py
+
+# File di git
+.gitattributes
+.gitignore
+
+# File di configurazione dell'IDE
+.idea/
+.vscode/
+
+# File di sistema
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# File generati da pip e virtualenv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# File temporanei di Jupyter Notebook
+*.ipynb_checkpoints
+
+# File di log
+*.log
+
+# File di sistema Windows
+Thumbs.db

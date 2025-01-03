@@ -31,8 +31,6 @@ def extract_claims_from_relational_table(html_content):
 
     return extracted_data
 
-from bs4 import BeautifulSoup
-
 def extract_claims_from_nested_relational_table(html_content):
     # Parsing HTML
     soup = BeautifulSoup(html_content, 'html.parser')

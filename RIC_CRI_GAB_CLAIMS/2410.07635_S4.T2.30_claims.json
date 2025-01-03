@@ -1,0 +1,626 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "0"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "0"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "56.85"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/128"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "2"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "54.27"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/128"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "2"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "58.22"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/64"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "4"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "57.26"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/64"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "4"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "57.20"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/32"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "8"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "57.66"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/32"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "8"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "57.36"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/16"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "16"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "58.44"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/16"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "16"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "58.68"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/8"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "32"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "57.59"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/8"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "32"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "58.29"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/4"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "64"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "57.82"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/4"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "64"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "55.52"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "0"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "0"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "87.66"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/128"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "2"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "87.66"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/128"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "2"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "88.35"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/64"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "4"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "87.99"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/64"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "4"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "88.97"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/32"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "8"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "88.79"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/32"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "8"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "87.77"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/16"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "16"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "87.96"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/16"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "16"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "88.37"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/8"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "32"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "88.17"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/8"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "32"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "89.08"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/4"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "64"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "88.18"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/4"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "64"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "VSPW"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "87.99"
+        }
+    }
+]

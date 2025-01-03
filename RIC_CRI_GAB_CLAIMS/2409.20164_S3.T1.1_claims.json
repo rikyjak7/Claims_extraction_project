@@ -1,0 +1,74 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "-none-",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "-none-",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "-none-",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "-none-",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "-none-",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "-none-",
+            "Outcome": "-none-"
+        }
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, iBOT"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "33.2"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, iBOT"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "59.0"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, iBOT"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "1.4"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, AttMask"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "50.4"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, AttMask"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "59.1"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, AttMask"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "3.2"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, MFM"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "26.9"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, MFM"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "31.6"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, MFM"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "6.3"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, MFM + Com/RCom"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "42.5"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, MFM + Com/RCom"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "44.5"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, MFM + Com/RCom"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "10.7"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, FOLK"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "51.7"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, FOLK"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "56.1"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Warm Up = 0, FOLK"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Few-shot learning performance",
+            "Outcome": "20.5"
+        }
+    }
+]

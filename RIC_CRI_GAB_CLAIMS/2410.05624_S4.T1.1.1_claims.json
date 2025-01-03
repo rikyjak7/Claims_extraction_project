@@ -1,0 +1,2282 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "77.33"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "64.13"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "77.47"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "71.57"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "80.84"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "52.02"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "70.66"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "45.54"
+                }
+            },
+            "Measure": "Imp.surf.",
+            "Outcome": "71.57"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "71.57"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "80.84"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "52.02"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "70.66"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "45.54"
+                }
+            },
+            "Measure": "Building",
+            "Outcome": "80.84"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "71.57"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "80.84"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "52.02"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "70.66"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "45.54"
+                }
+            },
+            "Measure": "Lowveg.",
+            "Outcome": "52.02"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "71.57"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "80.84"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "52.02"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "70.66"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "45.54"
+                }
+            },
+            "Measure": "Tree",
+            "Outcome": "70.66"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "71.57"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "80.84"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "52.02"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "70.66"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "45.54"
+                }
+            },
+            "Measure": "Car",
+            "Outcome": "45.54"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "83.11"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "71.85"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "84.80"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "77.52"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.09"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "56.94"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.23"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "61.46"
+                }
+            },
+            "Measure": "Imp.surf.",
+            "Outcome": "77.52"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "77.52"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.09"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "56.94"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.23"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "61.46"
+                }
+            },
+            "Measure": "Building",
+            "Outcome": "88.09"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "77.52"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.09"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "56.94"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.23"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "61.46"
+                }
+            },
+            "Measure": "Lowveg.",
+            "Outcome": "56.94"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "77.52"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.09"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "56.94"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.23"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "61.46"
+                }
+            },
+            "Measure": "Tree",
+            "Outcome": "75.23"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "77.52"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.09"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "56.94"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.23"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "61.46"
+                }
+            },
+            "Measure": "Car",
+            "Outcome": "61.46"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "82.33"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "70.63"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "83.74"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "76.75"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "87.18"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "57.20"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "74.49"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "57.54"
+                }
+            },
+            "Measure": "Imp.surf.",
+            "Outcome": "76.75"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "76.75"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "87.18"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "57.20"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "74.49"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "57.54"
+                }
+            },
+            "Measure": "Building",
+            "Outcome": "87.18"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "76.75"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "87.18"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "57.20"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "74.49"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "57.54"
+                }
+            },
+            "Measure": "Lowveg.",
+            "Outcome": "57.20"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "76.75"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "87.18"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "57.20"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "74.49"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "57.54"
+                }
+            },
+            "Measure": "Tree",
+            "Outcome": "74.49"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "76.75"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "87.18"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "57.20"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "74.49"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "57.54"
+                }
+            },
+            "Measure": "Car",
+            "Outcome": "57.54"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "83.67"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "72.55"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "84.41"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "78.56"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "87.12"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.12"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.12"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "62.81"
+                }
+            },
+            "Measure": "Imp.surf.",
+            "Outcome": "78.56"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "78.56"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "87.12"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.12"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.12"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "62.81"
+                }
+            },
+            "Measure": "Building",
+            "Outcome": "87.12"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "78.56"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "87.12"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.12"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.12"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "62.81"
+                }
+            },
+            "Measure": "Lowveg.",
+            "Outcome": "59.12"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "78.56"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "87.12"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.12"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.12"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "62.81"
+                }
+            },
+            "Measure": "Tree",
+            "Outcome": "75.12"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "78.56"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "87.12"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.12"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.12"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "62.81"
+                }
+            },
+            "Measure": "Car",
+            "Outcome": "62.81"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "84.67"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "74.05"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "85.19"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "80.27"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.33"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.87"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.50"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "65.28"
+                }
+            },
+            "Measure": "Imp.surf.",
+            "Outcome": "80.27"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "80.27"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.33"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.87"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.50"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "65.28"
+                }
+            },
+            "Measure": "Building",
+            "Outcome": "89.33"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "80.27"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.33"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.87"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.50"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "65.28"
+                }
+            },
+            "Measure": "Lowveg.",
+            "Outcome": "59.87"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "80.27"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.33"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.87"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.50"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "65.28"
+                }
+            },
+            "Measure": "Tree",
+            "Outcome": "75.50"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "80.27"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.33"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.87"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.50"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "65.28"
+                }
+            },
+            "Measure": "Car",
+            "Outcome": "65.28"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "84.76"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "74.11"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "85.37"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.28"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.10"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.43"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "76.14"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "67.62"
+                }
+            },
+            "Measure": "Imp.surf.",
+            "Outcome": "79.28"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.28"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.10"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.43"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "76.14"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "67.62"
+                }
+            },
+            "Measure": "Building",
+            "Outcome": "88.10"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.28"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.10"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.43"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "76.14"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "67.62"
+                }
+            },
+            "Measure": "Lowveg.",
+            "Outcome": "59.43"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.28"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.10"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.43"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "76.14"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "67.62"
+                }
+            },
+            "Measure": "Tree",
+            "Outcome": "76.14"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.28"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.10"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.43"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "76.14"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "67.62"
+                }
+            },
+            "Measure": "Car",
+            "Outcome": "67.62"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "85.38"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.05"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "85.04"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "81.17"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.31"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "61.00"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.86"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "67.91"
+                }
+            },
+            "Measure": "Imp.surf.",
+            "Outcome": "81.17"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "81.17"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.31"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "61.00"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.86"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "67.91"
+                }
+            },
+            "Measure": "Building",
+            "Outcome": "89.31"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "81.17"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.31"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "61.00"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.86"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "67.91"
+                }
+            },
+            "Measure": "Lowveg.",
+            "Outcome": "61.00"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "81.17"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.31"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "61.00"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.86"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "67.91"
+                }
+            },
+            "Measure": "Tree",
+            "Outcome": "75.86"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "81.17"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.31"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "61.00"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.86"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "67.91"
+                }
+            },
+            "Measure": "Car",
+            "Outcome": "67.91"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "84.06"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "73.18"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "84.30"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.78"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.18"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "58.70"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.65"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "63.58"
+                }
+            },
+            "Measure": "Imp.surf.",
+            "Outcome": "79.78"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.78"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.18"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "58.70"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.65"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "63.58"
+                }
+            },
+            "Measure": "Building",
+            "Outcome": "88.18"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.78"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.18"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "58.70"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.65"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "63.58"
+                }
+            },
+            "Measure": "Lowveg.",
+            "Outcome": "58.70"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.78"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.18"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "58.70"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.65"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "63.58"
+                }
+            },
+            "Measure": "Tree",
+            "Outcome": "75.65"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.78"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "88.18"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "58.70"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.65"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "63.58"
+                }
+            },
+            "Measure": "Car",
+            "Outcome": "63.58"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "84.72"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "74.10"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "84.55"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.77"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.10"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.43"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.62"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "66.56"
+                }
+            },
+            "Measure": "Imp.surf.",
+            "Outcome": "79.77"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.77"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.10"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.43"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.62"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "66.56"
+                }
+            },
+            "Measure": "Building",
+            "Outcome": "89.10"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.77"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.10"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.43"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.62"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "66.56"
+                }
+            },
+            "Measure": "Lowveg.",
+            "Outcome": "59.43"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.77"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.10"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.43"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.62"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "66.56"
+                }
+            },
+            "Measure": "Tree",
+            "Outcome": "75.62"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "79.77"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "89.10"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "59.43"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "75.62"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "66.56"
+                }
+            },
+            "Measure": "Car",
+            "Outcome": "66.56"
+        }
+    },
+    {
+        "72": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "85.98"
+        }
+    },
+    {
+        "73": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.97"
+        }
+    },
+    {
+        "74": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "85.82"
+        }
+    },
+    {
+        "75": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "81.92"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "90.25"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "62.11"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "77.13"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "68.44"
+                }
+            },
+            "Measure": "Imp.surf.",
+            "Outcome": "81.92"
+        }
+    },
+    {
+        "76": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "81.92"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "90.25"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "62.11"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "77.13"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "68.44"
+                }
+            },
+            "Measure": "Building",
+            "Outcome": "90.25"
+        }
+    },
+    {
+        "77": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "81.92"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "90.25"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "62.11"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "77.13"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "68.44"
+                }
+            },
+            "Measure": "Lowveg.",
+            "Outcome": "62.11"
+        }
+    },
+    {
+        "78": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "81.92"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "90.25"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "62.11"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "77.13"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "68.44"
+                }
+            },
+            "Measure": "Tree",
+            "Outcome": "77.13"
+        }
+    },
+    {
+        "79": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                },
+                "2": {
+                    "name": "Imp.surf.",
+                    "value": "81.92"
+                },
+                "3": {
+                    "name": "Building",
+                    "value": "90.25"
+                },
+                "4": {
+                    "name": "Lowveg.",
+                    "value": "62.11"
+                },
+                "5": {
+                    "name": "Tree",
+                    "value": "77.13"
+                },
+                "6": {
+                    "name": "Car",
+                    "value": "68.44"
+                }
+            },
+            "Measure": "Car",
+            "Outcome": "68.44"
+        }
+    }
+]

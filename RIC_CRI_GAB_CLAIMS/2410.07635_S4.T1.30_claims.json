@@ -1,0 +1,626 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "0"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "0"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "55.66"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/128"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "2"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "53.40"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/128"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "2"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "53.26"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/64"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "4"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "50.69"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/64"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "4"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "56.61"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/32"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "8"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "51.49"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/32"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "8"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "57.68"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/16"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "16"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "54.22"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/16"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "16"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "56.23"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/8"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "32"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "54.10"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/8"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "32"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "56.88"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/4"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "64"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "55.92"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/4"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "64"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "53.73"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "0"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "0"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "92.91"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/128"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "2"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "92.28"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/128"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "2"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "92.71"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/64"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "4"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "91.35"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/64"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "4"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "92.68"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/32"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "8"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "91.86"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/32"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "8"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "93.23"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/16"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "16"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "92.03"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/16"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "16"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "92.57"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/8"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "32"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "92.21"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/8"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "32"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "92.71"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/4"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "64"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "92.42"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "shiftfraction",
+                    "value": "1/4"
+                },
+                "1": {
+                    "name": "channels",
+                    "value": "64"
+                },
+                "2": {
+                    "name": "matching",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "CityScapes-VPS"
+                }
+            },
+            "Measure": "pix. acc.",
+            "Outcome": "92.56"
+        }
+    }
+]

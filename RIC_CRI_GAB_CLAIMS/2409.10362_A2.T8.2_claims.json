@@ -1,0 +1,242 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "ViT-S"
+                },
+                "2": {
+                    "name": "Batch Size",
+                    "value": "128"
+                }
+            },
+            "Measure": "MemGPU (GB)",
+            "Outcome": "19.82"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "ViT-S"
+                },
+                "2": {
+                    "name": "Batch Size",
+                    "value": "128"
+                }
+            },
+            "Measure": "MemGPU (GB)",
+            "Outcome": "10.11"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "iBOT"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "ViT-S"
+                },
+                "2": {
+                    "name": "Batch Size",
+                    "value": "128"
+                }
+            },
+            "Measure": "MemGPU (GB)",
+            "Outcome": "21.99"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "AttMask"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "ViT-S"
+                },
+                "2": {
+                    "name": "Batch Size",
+                    "value": "64"
+                }
+            },
+            "Measure": "MemGPU (GB)",
+            "Outcome": "39.38"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "ViT-S"
+                },
+                "2": {
+                    "name": "Batch Size",
+                    "value": "128"
+                }
+            },
+            "Measure": "Few-Shot Accuracy (%)",
+            "Outcome": "67.2"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "ViT-S"
+                },
+                "2": {
+                    "name": "Batch Size",
+                    "value": "128"
+                }
+            },
+            "Measure": "Few-Shot Accuracy (%)",
+            "Outcome": "52.7"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "iBOT"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "ViT-S"
+                },
+                "2": {
+                    "name": "Batch Size",
+                    "value": "128"
+                }
+            },
+            "Measure": "Few-Shot Accuracy (%)",
+            "Outcome": "45.7"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "AttMask"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "ViT-S"
+                },
+                "2": {
+                    "name": "Batch Size",
+                    "value": "64"
+                }
+            },
+            "Measure": "Few-Shot Accuracy (%)",
+            "Outcome": "57.4"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "ViT-S"
+                },
+                "2": {
+                    "name": "Batch Size",
+                    "value": "128"
+                }
+            },
+            "Measure": "Classification Accuracy (%)",
+            "Outcome": "81.6"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "ViT-S"
+                },
+                "2": {
+                    "name": "Batch Size",
+                    "value": "128"
+                }
+            },
+            "Measure": "Classification Accuracy (%)",
+            "Outcome": "81.4"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "iBOT"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "ViT-S"
+                },
+                "2": {
+                    "name": "Batch Size",
+                    "value": "128"
+                }
+            },
+            "Measure": "Classification Accuracy (%)",
+            "Outcome": "81.1"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "AttMask"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "ViT-S"
+                },
+                "2": {
+                    "name": "Batch Size",
+                    "value": "64"
+                }
+            },
+            "Measure": "Classification Accuracy (%)",
+            "Outcome": "81.3"
+        }
+    }
+]

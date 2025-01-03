@@ -1,0 +1,1154 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "824"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "2269"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "8103"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-L"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "665"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-L"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "2053"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-L"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "7518"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-L"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-B"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "422"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-B"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "1399"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-B"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "5417"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-B"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "315"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "848"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "OOM"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "442"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "1610"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "6356"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "106"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "347"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "1313"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "5022"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAMv2"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAMv2"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAMv2"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAMv2"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "173"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "404"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "1553"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "5877"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "753"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "1833"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "5670"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "1100"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "2290"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "6210"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepVit-SAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "512"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepVit-SAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "1890"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepVit-SAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "7437"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepVit-SAM"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "258"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "1023"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "3938"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "432"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "1546"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "6094"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "400"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "1374"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "5213"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "385"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "1342"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "5148"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "776"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Q-TinySAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "16*16"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Q-TinySAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "32*32"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Q-TinySAM"
+                },
+                "1": {
+                    "name": "Grid Size",
+                    "value": "64*64"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Q-TinySAM"
+                },
+                "1": {
+                    "name": "Prompt Strategy",
+                    "value": "other prompt strategies"
+                }
+            },
+            "Measure": "Inference Latency",
+            "Outcome": "1318"
+        }
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Baseline",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "LLFI",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Filter",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "PPG",
+                    "value": "-none-"
+                }
+            },
+            "Measure": "Average Dice Score",
+            "Outcome": "78.87"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Baseline",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "LLFI",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Filter",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "PPG",
+                    "value": "-none-"
+                }
+            },
+            "Measure": "Average Dice Score",
+            "Outcome": "79.29"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Baseline",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "LLFI",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Filter",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "PPG",
+                    "value": "-none-"
+                }
+            },
+            "Measure": "Average Dice Score",
+            "Outcome": "79.52"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Baseline",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "LLFI",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Filter",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "PPG",
+                    "value": "-none-"
+                }
+            },
+            "Measure": "Average Dice Score",
+            "Outcome": "79.97"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Baseline",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "LLFI",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Filter",
+                    "value": "-none-"
+                },
+                "3": {
+                    "name": "PPG",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "Average Dice Score",
+            "Outcome": "80.31"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Baseline",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "LLFI",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Filter",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "PPG",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "Average Dice Score",
+            "Outcome": "81.31"
+        }
+    }
+]

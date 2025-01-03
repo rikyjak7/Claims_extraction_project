@@ -1,0 +1,142 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Num",
+                    "value": "0"
+                },
+                "1": {
+                    "name": "Params(K)",
+                    "value": "0"
+                },
+                "2": {
+                    "name": "FLOPs(M)",
+                    "value": "0"
+                }
+            },
+            "Measure": "Averaged Dice Score",
+            "Outcome": "78.87"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Num",
+                    "value": "64"
+                },
+                "1": {
+                    "name": "Params(K)",
+                    "value": "16"
+                },
+                "2": {
+                    "name": "FLOPs(M)",
+                    "value": "75.67"
+                }
+            },
+            "Measure": "Averaged Dice Score",
+            "Outcome": "79.15"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Num",
+                    "value": "128"
+                },
+                "1": {
+                    "name": "Params(K)",
+                    "value": "32"
+                },
+                "2": {
+                    "name": "FLOPs(M)",
+                    "value": "75.71"
+                }
+            },
+            "Measure": "Averaged Dice Score",
+            "Outcome": "79.42"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Num",
+                    "value": "256"
+                },
+                "1": {
+                    "name": "Params(K)",
+                    "value": "64"
+                },
+                "2": {
+                    "name": "FLOPs(M)",
+                    "value": "75.77"
+                }
+            },
+            "Measure": "Averaged Dice Score",
+            "Outcome": "80.31"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Num",
+                    "value": "512"
+                },
+                "1": {
+                    "name": "Params(K)",
+                    "value": "128"
+                },
+                "2": {
+                    "name": "FLOPs(M)",
+                    "value": "75.90"
+                }
+            },
+            "Measure": "Averaged Dice Score",
+            "Outcome": "79.34"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Num",
+                    "value": "1024"
+                },
+                "1": {
+                    "name": "Params(K)",
+                    "value": "256"
+                },
+                "2": {
+                    "name": "FLOPs(M)",
+                    "value": "76.16"
+                }
+            },
+            "Measure": "Averaged Dice Score",
+            "Outcome": "79.13"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Num",
+                    "value": "2048"
+                },
+                "1": {
+                    "name": "Params(K)",
+                    "value": "512"
+                },
+                "2": {
+                    "name": "FLOPs(M)",
+                    "value": "76.69"
+                }
+            },
+            "Measure": "Averaged Dice Score",
+            "Outcome": "78.92"
+        }
+    }
+]

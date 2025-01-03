@@ -1,0 +1,130 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Supervised Learning"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ADE20K"
+                },
+                "2": {
+                    "name": "Model",
+                    "value": "ViT-S/16"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "44.5"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "iBOT"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ADE20K"
+                },
+                "2": {
+                    "name": "Model",
+                    "value": "ViT-S/16"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "45.4"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "iBOT+++AttMask"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ADE20K"
+                },
+                "2": {
+                    "name": "Model",
+                    "value": "ViT-S/16"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "45.3"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ADE20K"
+                },
+                "2": {
+                    "name": "Model",
+                    "value": "ViT-S/16"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "44.9"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ADE20K"
+                },
+                "2": {
+                    "name": "Model",
+                    "value": "ViT-S/16"
+                },
+                "3": {
+                    "name": "Pre-training Epochs",
+                    "value": "300"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "45.3"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ADE20K"
+                },
+                "2": {
+                    "name": "Model",
+                    "value": "ViT-S/16"
+                },
+                "3": {
+                    "name": "Pre-training Epochs",
+                    "value": "800"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "45.5"
+        }
+    }
+]

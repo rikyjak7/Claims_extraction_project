@@ -1,0 +1,206 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "U-Net"
+                },
+                "2": {
+                    "name": "Preprocessing",
+                    "value": "Resized each image to 432\u00d7240 pixels and normalized the intensities to [0,1]"
+                },
+                "3": {
+                    "name": "Input size",
+                    "value": "432\u00d7240"
+                },
+                "4": {
+                    "name": "Optimizer",
+                    "value": "Adam with a weight decay of 10\u207b\u2074"
+                },
+                "5": {
+                    "name": "Batch size",
+                    "value": "8"
+                },
+                "6": {
+                    "name": "Training epochs or iterations",
+                    "value": "1st stage: e\u2081, d\u2081, e\u2082, and d\u2082 were jointly trained for 100 epochs, 2nd stage: w was trained for 100 epochs"
+                },
+                "7": {
+                    "name": "Learning rate",
+                    "value": "1st stage: 10\u207b\u2074, 2nd stage: 10\u207b\u2074"
+                },
+                "8": {
+                    "name": "Dimension of z",
+                    "value": "256"
+                },
+                "9": {
+                    "name": "\u03b1",
+                    "value": "10\u207b\u00b3"
+                },
+                "10": {
+                    "name": "\u03b2",
+                    "value": "10\u207b\u00b9"
+                },
+                "11": {
+                    "name": "\u03b3",
+                    "value": "10\u207b\u2078"
+                },
+                "12": {
+                    "name": "N",
+                    "value": "3"
+                },
+                "13": {
+                    "name": "T",
+                    "value": "15"
+                },
+                "14": {
+                    "name": "Execution manner",
+                    "value": "5-fold cross validation"
+                }
+            },
+            "Measure": "-none-",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "U-Net"
+                },
+                "2": {
+                    "name": "Preprocessing",
+                    "value": "Resized each image to 480\u00d7240 pixels and normalized the intensities to [0,1]"
+                },
+                "3": {
+                    "name": "Input size",
+                    "value": "480\u00d7240"
+                },
+                "4": {
+                    "name": "Optimizer",
+                    "value": "Adam with a weight decay of 10\u207b\u2074"
+                },
+                "5": {
+                    "name": "Batch size",
+                    "value": "8"
+                },
+                "6": {
+                    "name": "Training epochs or iterations",
+                    "value": "1st stage: e\u2081, d\u2081, e\u2082, and d\u2082 were jointly trained for 200 epochs, 2nd stage: w was trained for 200 epochs"
+                },
+                "7": {
+                    "name": "Learning rate",
+                    "value": "1st stage: 10\u207b\u2074, 2nd stage: 10\u207b\u2074"
+                },
+                "8": {
+                    "name": "Dimension of z",
+                    "value": "256"
+                },
+                "9": {
+                    "name": "\u03b1",
+                    "value": "10\u207b\u00b3"
+                },
+                "10": {
+                    "name": "\u03b2",
+                    "value": "10\u207b\u00b9"
+                },
+                "11": {
+                    "name": "\u03b3",
+                    "value": "10\u207b\u2078"
+                },
+                "12": {
+                    "name": "N",
+                    "value": "3"
+                },
+                "13": {
+                    "name": "T",
+                    "value": "15"
+                },
+                "14": {
+                    "name": "Execution manner",
+                    "value": "5-trial repeats"
+                }
+            },
+            "Measure": "-none-",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Dataset",
+                    "value": "ACDC"
+                },
+                "1": {
+                    "name": "Backbone",
+                    "value": "U-Net"
+                },
+                "2": {
+                    "name": "Preprocessing",
+                    "value": "Resized each slice to 256\u00d7256 pixels and normalized the intensities to [0,1]"
+                },
+                "3": {
+                    "name": "Input size",
+                    "value": "256\u00d7256"
+                },
+                "4": {
+                    "name": "Optimizer",
+                    "value": "SGD with a weight decay of 10\u207b\u2074 and a momentum of 0.9"
+                },
+                "5": {
+                    "name": "Batch size",
+                    "value": "8"
+                },
+                "6": {
+                    "name": "Training epochs or iterations",
+                    "value": "1st stage: e\u2081, d\u2081, e\u2082, and d\u2082 were jointly trained for 90000 iterations, 2nd stage: w was trained for 90000 iterations"
+                },
+                "7": {
+                    "name": "Learning rate",
+                    "value": "1st stage: 10\u207b\u00b2\u00d7(1-\u03b7/90000)\u2070\u00b7\u2079, 2nd stage: 10\u207b\u00b2\u00d7(1-\u03b7/90000)\u2070\u00b7\u2079, \u03b7 is the current iteration"
+                },
+                "8": {
+                    "name": "Dimension of z",
+                    "value": "256"
+                },
+                "9": {
+                    "name": "\u03b1",
+                    "value": "10\u207b\u00b3"
+                },
+                "10": {
+                    "name": "\u03b2",
+                    "value": "10\u207b\u00b9"
+                },
+                "11": {
+                    "name": "\u03b3",
+                    "value": "10\u207b\u2078"
+                },
+                "12": {
+                    "name": "N",
+                    "value": "3"
+                },
+                "13": {
+                    "name": "T",
+                    "value": "15"
+                },
+                "14": {
+                    "name": "Execution manner",
+                    "value": "5-fold cross validation"
+                }
+            },
+            "Measure": "-none-",
+            "Outcome": "-none-"
+        }
+    }
+]

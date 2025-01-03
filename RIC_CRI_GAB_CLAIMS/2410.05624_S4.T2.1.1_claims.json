@@ -1,0 +1,1482 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "82.19"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "70.12"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "82.56"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Imp.surf."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "73.80"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Building"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "80.25"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Lowveg."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "63.48"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Tree"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "58.86"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Car"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "74.23"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "88.78"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "80.07"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "88.61"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Imp.surf."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "81.94"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Building"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "90.11"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Lowveg."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "71.89"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Tree"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "73.64"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[38]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Car"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "82.75"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "88.23"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "79.22"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "88.16"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Imp.surf."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "82.00"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Building"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "89.41"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Lowveg."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "71.08"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Tree"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "71.18"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Car"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "82.41"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "88.77"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "80.09"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "88.69"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Imp.surf."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "82.54"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Building"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "90.55"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Lowveg."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "71.78"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Tree"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "72.76"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[39]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Car"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "82.82"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "88.81"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "80.16"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "88.75"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Imp.surf."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "82.07"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Building"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "90.73"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Lowveg."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "71.76"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Tree"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "72.36"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Car"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "83.87"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "88.85"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "80.23"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "89.03"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Imp.surf."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "82.36"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Building"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "90.95"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Lowveg."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "71.66"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Tree"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "72.59"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[26]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Car"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "83.34"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "88.86"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "80.22"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "88.65"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Imp.surf."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "82.49"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Building"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "90.48"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Lowveg."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "71.81"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Tree"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "73.23"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[41]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Car"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "83.07"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "88.54"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "79.71"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "87.99"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Imp.surf."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "82.17"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Building"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "89.83"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Lowveg."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "71.28"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Tree"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "72.49"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Car"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "82.76"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "88.79"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "80.12"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "88.48"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Imp.surf."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "82.37"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Building"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "90.66"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Lowveg."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "71.45"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Tree"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "72.94"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Car"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "83.19"
+        }
+    },
+    {
+        "72": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mF1(%)",
+            "Outcome": "89.35"
+        }
+    },
+    {
+        "73": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "80.99"
+        }
+    },
+    {
+        "74": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                }
+            },
+            "Measure": "OA(%)",
+            "Outcome": "88.96"
+        }
+    },
+    {
+        "75": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Imp.surf."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "83.40"
+        }
+    },
+    {
+        "76": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Building"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "90.70"
+        }
+    },
+    {
+        "77": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Lowveg."
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "72.91"
+        }
+    },
+    {
+        "78": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Tree"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "73.97"
+        }
+    },
+    {
+        "79": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ISPRS Potsdam"
+                },
+                "2": {
+                    "name": "Class",
+                    "value": "Car"
+                }
+            },
+            "Measure": "IoU(%)",
+            "Outcome": "83.99"
+        }
+    }
+]

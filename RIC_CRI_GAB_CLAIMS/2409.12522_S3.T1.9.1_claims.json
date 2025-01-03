@@ -1,0 +1,1346 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Upper bound[15]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "85.38"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Upper bound[15]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "B",
+            "Outcome": "83.68"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Upper bound[15]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "82.15"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Upper bound[15]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "D",
+            "Outcome": "85.21"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Upper bound[15]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "E",
+            "Outcome": "87.04"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Upper bound[15]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "84.29"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Upper bound[15]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "Average",
+            "Outcome": "84.63"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AdvBias[4]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "77.45"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AdvBias[4]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "B",
+            "Outcome": "62.12"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AdvBias[4]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "51.09"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AdvBias[4]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "D",
+            "Outcome": "70.20"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AdvBias[4]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "E",
+            "Outcome": "51.12"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AdvBias[4]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "50.69"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AdvBias[4]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "Average",
+            "Outcome": "60.45"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RandConv[32]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "75.52"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RandConv[32]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "B",
+            "Outcome": "57.23"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RandConv[32]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "44.21"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RandConv[32]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "D",
+            "Outcome": "61.27"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RandConv[32]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "E",
+            "Outcome": "49.98"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RandConv[32]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "54.21"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RandConv[32]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "Average",
+            "Outcome": "57.07"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MixStyle[34]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "73.04"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MixStyle[34]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "B",
+            "Outcome": "59.29"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MixStyle[34]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "43.00"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MixStyle[34]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "D",
+            "Outcome": "62.17"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MixStyle[34]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "E",
+            "Outcome": "53.12"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MixStyle[34]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "50.03"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MixStyle[34]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "Average",
+            "Outcome": "56.78"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "81.25"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "B",
+            "Outcome": "70.27"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "62.09"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "D",
+            "Outcome": "58.18"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "E",
+            "Outcome": "70.04"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "67.77"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "Average",
+            "Outcome": "68.27"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "80.72"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "B",
+            "Outcome": "68.00"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "59.78"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "D",
+            "Outcome": "72.40"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "E",
+            "Outcome": "68.67"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "70.78"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "Average",
+            "Outcome": "70.06"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "80.62"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "B",
+            "Outcome": "69.52"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "65.18"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "D",
+            "Outcome": "67.89"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "E",
+            "Outcome": "58.99"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "63.27"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "Average",
+            "Outcome": "67.58"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][whole]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "82.30"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][whole]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "B",
+            "Outcome": "78.06"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][whole]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "66.65"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][whole]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "D",
+            "Outcome": "82.87"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][whole]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "E",
+            "Outcome": "77.58"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][whole]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "79.05"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][whole]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "Average",
+            "Outcome": "77.75"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][grid]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "82.80"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][grid]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "B",
+            "Outcome": "80.61"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][grid]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "64.77"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][grid]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "D",
+            "Outcome": "83.41"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][grid]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "E",
+            "Outcome": "80.36"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][grid]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "82.17"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][grid]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "Average",
+            "Outcome": "79.02"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "80.42"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "B",
+            "Outcome": "81.44"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "66.75"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "D",
+            "Outcome": "82.09"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "E",
+            "Outcome": "80.19"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "80.17"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "Average",
+            "Outcome": "78.51"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "84.42"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "B",
+            "Outcome": "79.79"
+        }
+    },
+    {
+        "72": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "64.83"
+        }
+    },
+    {
+        "73": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "D",
+            "Outcome": "83.49"
+        }
+    },
+    {
+        "74": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "E",
+            "Outcome": "80.50"
+        }
+    },
+    {
+        "75": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "80.18"
+        }
+    },
+    {
+        "76": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "Average",
+            "Outcome": "78.87"
+        }
+    },
+    {
+        "77": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM (Ours)"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "86.34"
+        }
+    },
+    {
+        "78": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM (Ours)"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "B",
+            "Outcome": "81.05"
+        }
+    },
+    {
+        "79": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM (Ours)"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "70.81"
+        }
+    },
+    {
+        "80": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM (Ours)"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "D",
+            "Outcome": "85.28"
+        }
+    },
+    {
+        "81": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM (Ours)"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "E",
+            "Outcome": "82.91"
+        }
+    },
+    {
+        "82": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM (Ours)"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "81.48"
+        }
+    },
+    {
+        "83": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM (Ours)"
+                },
+                "1": {
+                    "name": "Model",
+                    "value": "ViT"
+                }
+            },
+            "Measure": "Average",
+            "Outcome": "81.31"
+        }
+    }
+]

@@ -6,12 +6,16 @@ D="nested cross-table"
 
 
 table_types = {
-    # Paper 08461
-    "S3.T1.6": A,
-    "S3.T2.3.3": A,
-    "S4.T3.6.6.6.6.4": B,
-    "S4.T4.30.30": B,
 
+    # Paper 12024
+    "S4.T1.2": A,
+    "S4.T2.6": B, # tabella di tipo A ma trattata come una nested di tipo B
+    "S4.T3.5": A,
+    "S4.T4.6": A,
+    "A2.T5.2": A,
+    "A2.T6.6": B, # tabella di tipo A ma trattata come una nested di tipo B
+    "A2.T7.2": A,
+    "A2.T8.2": A,
 
     # Paper 11508
     "S5.T1.8": A,

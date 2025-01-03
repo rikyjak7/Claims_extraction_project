@@ -26,12 +26,10 @@ def extract_claims_from_relational_table(html_content):
             # Combina intestazioni e celle
             row_data = [f"|{col_headers[i]}, {cells[i].get_text(strip=True)}|" for i in range(len(cells))]
             extracted_data.append(f"{', '.join(row_data)}")
-
-        #extracted_data in input al LLM con LLM_Extraction_Prompt per generare i claims corretti
-
     return extracted_data
 
 def extract_claims_from_nested_relational_table(html_content):
+
     # Parsing HTML
     soup = BeautifulSoup(html_content, 'html.parser')
     table = soup.find('table')
@@ -50,8 +48,19 @@ def extract_claims_from_nested_relational_table(html_content):
         col_headers_2nd_row = [th.get_text(strip=True) for th in rows[1].find_all(['th', 'td'])]
 
         if len(col_headers) != len(col_headers_2nd_row) or any(h == "" for h in col_headers):
-            col_headers = [a + " " + b for a, b in zip(col_headers, col_headers_2nd_row)]
-            first_data_row = 2  # Skippa la seconda riga se è parte delle intestazioni
+
+            def_headers = []
+
+            for i in range(max(len(col_headers),len(col_headers_2nd_row))):
+                if(i < len(col_headers) and i < len(col_headers_2nd_row)):
+                    def_headers.append(col_headers[i] + col_headers_2nd_row[i])
+                elif(i >= len(col_headers)):
+                    def_headers.append(col_headers_2nd_row[i])
+                else:
+                    def_headers.append(col_headers[i])
+
+            col_headers = def_headers
+            first_data_row = 2  # Salta la seconda riga se è parte delle intestazioni
 
     # Gestione delle celle con rowspan
     rowspan_data = {}
@@ -64,18 +73,21 @@ def extract_claims_from_nested_relational_table(html_content):
 
         for i, header in enumerate(col_headers):
             if i in rowspan_data and rowspan_data[i]['span'] > 0:
+
                 # Usa dati esistenti da rowspan
                 row_data.append(f"|{header}, {rowspan_data[i]['text']}|")
                 rowspan_data[i]['span'] -= 1
             elif cell_index < len(cells):
+
                 # Nuova cella
                 cell = cells[cell_index]
-                cell_text = cell.get_text(strip=True) or None  # Vuota non significa "N/A" qui
+                cell_text = cell.get_text(strip=True) or None  # Vuota non significa "N/A"
                 row_data.append(f"|{header}, {cell_text if cell_text else ''}|")
                 if cell.has_attr('rowspan'):
                     rowspan_data[i] = {'text': cell_text, 'span': int(cell['rowspan']) - 1}
                 cell_index += 1
             else:
+
                 # Cella mancante
                 row_data.append(f"|{header}, |")  # Mantenere il campo vuoto
 
@@ -87,6 +99,7 @@ def extract_claims_from_nested_relational_table(html_content):
         if i > 0:
             previous_row = merged_data[-1]
             for j in range(len(current_row)):
+                
                 # Mantieni vuoto se non c'è una dipendenza di rowspan
                 if "N/A" in current_row[j] or current_row[j].endswith(", |") and j in rowspan_data:
                     current_row[j] = previous_row[j]

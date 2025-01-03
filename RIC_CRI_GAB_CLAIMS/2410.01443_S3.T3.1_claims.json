@@ -1,0 +1,1282 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "2"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.37"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "0.74"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "2"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.37"
+                }
+            },
+            "Measure": "IoU",
+            "Outcome": "0.60"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "2"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.37"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "4.10"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "2"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.37"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.94"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "2"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.37"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.008"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "2"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.37"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "3.90"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "2"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.37"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "4.43"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "2"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.37"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "23.88"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "3"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.28"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "0.73"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "3"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.28"
+                }
+            },
+            "Measure": "IoU",
+            "Outcome": "0.56"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "3"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.28"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.31"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "3"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.28"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.86"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "3"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.28"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.011"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "3"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.28"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "4.68"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "3"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.28"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "6.18"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "3"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.28"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "23.05"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "4"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "0.68"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "4"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "IoU",
+            "Outcome": "0.56"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "4"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.57"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "4"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.83"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "4"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.011"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "4"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "4.60"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "4"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "7.02"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "4"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "23.80"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "5"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "0.58"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "5"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "IoU",
+            "Outcome": "0.47"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "5"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "6.17"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "5"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.80"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "5"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.012"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "5"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "6.12"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "5"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "6.37"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "5"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.27"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "22.42"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "6"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "0.72"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "6"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "IoU",
+            "Outcome": "0.52"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "6"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.23"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "6"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.85"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "6"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.011"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "6"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "4.97"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "6"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "5.63"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "6"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "22.12"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "7"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "0.56"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "7"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "IoU",
+            "Outcome": "0.47"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "7"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.13"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "7"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.86"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "7"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.010"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "7"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "4.98"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "7"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "5.54"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "7"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "21.44"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "8"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.20"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "0.58"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "8"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.20"
+                }
+            },
+            "Measure": "IoU",
+            "Outcome": "0.41"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "8"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.20"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "7.43"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "8"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.20"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.72"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "8"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.20"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.015"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "8"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.20"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "7.25"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "8"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.20"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "7.77"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "8"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.20"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "23.70"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "9"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.25"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "0.71"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "9"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.25"
+                }
+            },
+            "Measure": "IoU",
+            "Outcome": "0.49"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "9"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.25"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.87"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "9"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.25"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.83"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "9"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.25"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.011"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "9"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.25"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "5.53"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "9"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.25"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "6.24"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "9"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.25"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "23.09"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "10"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.21"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "0.67"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "10"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.21"
+                }
+            },
+            "Measure": "IoU",
+            "Outcome": "0.54"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "10"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.21"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.99"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "10"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.21"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.80"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "10"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.21"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.013"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "10"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.21"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "6.18"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "10"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.21"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "5.84"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "10"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.21"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "22.56"
+        }
+    },
+    {
+        "72": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "Average"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "0.66"
+        }
+    },
+    {
+        "73": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "Average"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "IoU",
+            "Outcome": "0.51"
+        }
+    },
+    {
+        "74": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "Average"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.65"
+        }
+    },
+    {
+        "75": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "Average"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.83"
+        }
+    },
+    {
+        "76": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "Average"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.011"
+        }
+    },
+    {
+        "77": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "Average"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "5.36"
+        }
+    },
+    {
+        "78": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "Average"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "6.11"
+        }
+    },
+    {
+        "79": {
+            "specifications": {
+                "0": {
+                    "name": "Specimen",
+                    "value": "Average"
+                },
+                "1": {
+                    "name": "IoU_input",
+                    "value": "0.26"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "22.90"
+        }
+    }
+]

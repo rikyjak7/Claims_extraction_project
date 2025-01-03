@@ -1,0 +1,2102 @@
+[
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "94.78"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "82.74"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "87.50"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "85.05"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "75.42"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "95.19"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "85.77"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "87.63"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "86.70"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "76.52"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "94.61"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "79.43"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "94.23"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "86.20"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "75.75"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "95.76"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "88.76"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "87.34"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "88.05"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "78.65"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "95.50"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "85.94"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "89.45"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "87.66"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "78.04"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "91.89"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "69.73"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "96.50"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "80.96"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "U-Net[ronneberger2015u]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "CNN"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "68.02"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "96.59"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "92.42"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "88.14"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "90.23"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "82.20"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "93.52"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "80.60"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "83.93"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "82.23"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "69.83"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "94.76"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "84.35"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "86.98"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "85.59"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.82"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "95.18"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "84.41"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "87.98"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "86.15"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "77.08"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "95.25"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "83.36"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "88.90"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "86.04"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "77.65"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "95.20"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "84.51"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "89.59"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "86.97"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "76.96"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "95.27"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "85.72"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "88.27"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "86.98"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "Swin-UNet[cao2022swin]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Transformer"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "76.96"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "95.54"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "85.66"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "90.16"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "87.85"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "78.34"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "97.86"
+        }
+    },
+    {
+        "72": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "93.51"
+        }
+    },
+    {
+        "73": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "94.56"
+        }
+    },
+    {
+        "74": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "94.03"
+        }
+    },
+    {
+        "75": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "88.73"
+        }
+    },
+    {
+        "76": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "97.86"
+        }
+    },
+    {
+        "77": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "92.82"
+        }
+    },
+    {
+        "78": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "95.39"
+        }
+    },
+    {
+        "79": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "94.09"
+        }
+    },
+    {
+        "80": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "88.84"
+        }
+    },
+    {
+        "81": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "98.44"
+        }
+    },
+    {
+        "82": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "96.14"
+        }
+    },
+    {
+        "83": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "95.07"
+        }
+    },
+    {
+        "84": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "95.60"
+        }
+    },
+    {
+        "85": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "91.58"
+        }
+    },
+    {
+        "86": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "98.59"
+        }
+    },
+    {
+        "87": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "96.99"
+        }
+    },
+    {
+        "88": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "95.08"
+        }
+    },
+    {
+        "89": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "96.03"
+        }
+    },
+    {
+        "90": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "92.35"
+        }
+    },
+    {
+        "91": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "98.43"
+        }
+    },
+    {
+        "92": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "95.60"
+        }
+    },
+    {
+        "93": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "95.61"
+        }
+    },
+    {
+        "94": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "95.60"
+        }
+    },
+    {
+        "95": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "91.57"
+        }
+    },
+    {
+        "96": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "97.61"
+        }
+    },
+    {
+        "97": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "93.12"
+        }
+    },
+    {
+        "98": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "93.51"
+        }
+    },
+    {
+        "99": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "93.32"
+        }
+    },
+    {
+        "100": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "VM-UNet[ruan2024vm]"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "Mamba"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "87.47"
+        }
+    },
+    {
+        "101": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "98.65"
+        }
+    },
+    {
+        "102": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "Precision",
+            "Outcome": "96.21"
+        }
+    },
+    {
+        "103": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "Recall",
+            "Outcome": "96.23"
+        }
+    },
+    {
+        "104": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "F1-Score",
+            "Outcome": "96.22"
+        }
+    },
+    {
+        "105": {
+            "specifications": {
+                "0": {
+                    "name": "Network",
+                    "value": "-none-"
+                },
+                "1": {
+                    "name": "Network Architecture",
+                    "value": "-none-"
+                },
+                "2": {
+                    "name": "Augmentation Method",
+                    "value": "Ours"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "92.72"
+        }
+    }
+]

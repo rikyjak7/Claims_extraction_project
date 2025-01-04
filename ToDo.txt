@@ -9,9 +9,9 @@ Paper 2410.04960: S4.T3.2; S4.T4.2
 TABELLE MALFORMATE
 S4.T1.2 tabella con una specification giustamente ripetuta 2 volte (data & pre-training-dataset)
 S4.T2.6/A2.T6.6 malformata (tabella fatta male)
-11508 5° tabella non uscita (formato strano thead & tbody)
+paper 11508 5° tabella non uscita (formato strano thead & tbody)
 tabella 6° e 9° unite ma comunque estratti i claims in maniera valida per il ground-truth
-S5.T10.3 da modificare a mano
+S5.T10.3 da modificare a mano6
 ------------------------------------------------------------------------------------------------
 LIMITI DEL LLM (gratuito)
 S3.T1.9.1 tabella parzialmente corretta, errata nella cattura di 2 specification

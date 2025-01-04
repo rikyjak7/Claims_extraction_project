@@ -1,0 +1,482 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline (UNet)[32]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "81.76"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline (UNet)[32]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.36"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline (UNet)[32]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.03"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline (UNet)[32]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.56"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline (UNet)[32]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.86"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Fusion via Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "81.69"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Fusion via Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.88"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Fusion via Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "97.89"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Fusion via Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.59"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Fusion via Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.89"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Fusion module in[69]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "81.86"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Fusion module in[69]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.54"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Fusion module in[69]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "97.95"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Fusion module in[69]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.62"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Fusion module in[69]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.91"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Individual)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "82.03"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Individual)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.84"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Individual)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.02"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Individual)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.64"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Individual)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.93"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Concat)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "81.95"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Concat)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "79.14"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Concat)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "97.98"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Concat)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.64"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Concat)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.93"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Shared)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "82.15"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Shared)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "79.23"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Shared)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.08"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Shared)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.68"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ MSGF (Shared)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.94"
+        }
+    }
+]

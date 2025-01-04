@@ -1,0 +1,962 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer[57]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "N.A."
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer[57]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "81.05"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer[57]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "97.11"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer[57]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.45"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer[57]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "N.A."
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "78.15"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "75.16"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.05"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.97"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.96"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "N.A."
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "74.12"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "97.01"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.09"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.90"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Orlando et al.[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "N.A."
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Orlando et al.[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "75.65"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Orlando et al.[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "96.55"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Orlando et al.[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "94.67"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Orlando et al.[19]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "94.78"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "N.A."
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "76.33"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.09"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.10"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.81"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet[33]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "80.12"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet[33]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "80.10"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet[33]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.04"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet[33]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.42"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet[33]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.40"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet[34]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "79.01"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet[34]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.93"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet[34]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "97.92"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet[34]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.11"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet[34]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.35"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Yan et al.[64]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "N.A."
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Yan et al.[64]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "76.41"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Yan et al.[64]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.06"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Yan et al.[64]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.07"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Yan et al.[64]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.76"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BTS-DSN[28]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "79.83"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BTS-DSN[28]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.88"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BTS-DSN[28]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.01"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BTS-DSN[28]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.27"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BTS-DSN[28]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.40"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet[35]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "79.32"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet[35]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "77.35"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet[35]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.01"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet[35]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.18"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet[35]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.39"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RCAR-UNet[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "74.70"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RCAR-UNet[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "74.75"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RCAR-UNet[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "97.98"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RCAR-UNet[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.66"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RCAR-UNet[40]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "N.A."
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet (Ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "80.86"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet (Ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "81.23"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet (Ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.15"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet (Ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.59"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet (Ours)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CHASEDB1"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.50"
+        }
+    }
+]

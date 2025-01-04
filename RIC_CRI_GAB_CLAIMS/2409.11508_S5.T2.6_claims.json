@@ -1,0 +1,542 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "82.68"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "80.76"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.22"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.41"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.24"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Orlando et al.[19]"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "76.80"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Orlando et al.[19]"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "97.38"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Orlando et al.[19]"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.19"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Orlando et al.[19]"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "95.70"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "75.81"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.46"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.12"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.01"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet[33]"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "81.36"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet[33]"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "80.67"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet[33]"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.16"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet[33]"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.32"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet[33]"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.33"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CC-Net[8]"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "77.09"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CC-Net[8]"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.48"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CC-Net[8]"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.33"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CC-Net[8]"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.00"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet[34]"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "82.32"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet[34]"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.59"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet[34]"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.42"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet[34]"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.44"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet[34]"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.47"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Yan et al.[64]"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "77.35"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Yan et al.[64]"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.57"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Yan et al.[64]"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.38"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Yan et al.[64]"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.33"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet[35]"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "82.30"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet[35]"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.92"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet[35]"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.16"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet[35]"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.34"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet[35]"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.43"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RCAR-UNet[40]"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "78.50"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RCAR-UNet[40]"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "69.79"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RCAR-UNet[40]"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "99.05"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "RCAR-UNet[40]"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.94"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet (Ours)"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "82.82"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet (Ours)"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.06"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet (Ours)"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.77"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet (Ours)"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "96.58"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet (Ours)"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.56"
+        }
+    }
+]

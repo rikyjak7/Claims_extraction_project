@@ -108,7 +108,8 @@ def extract_table_data(json_file, paper_id):
 # Reitera l'estrazione dei claims su tutti i file nella directory
 def process_directory():
 
-    directory = "C:/Users/hp/ClaimsProject_4HW/Claims_extraction_project/10_samples/arxiv_10_json"
+    directory = "C:/Users/hp/ClaimsProject_4HW/Claims_extraction_project/last_json"
+    #directory = "C:/Users/hp/ClaimsProject_4HW/Claims_extraction_project/10_samples/arxiv_10_json"
     #directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria dei dati/HW4/10_samples/arxiv_10_json"
     #directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria_dei_dati/HW4/Test_1json"
 

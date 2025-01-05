@@ -7,6 +7,7 @@ import Extraction_methods
 from Table_Dictionary import table_types
 from Cloud_Gemini import generate_content_with_gemini
 from LLM_Extraction_Prompt_Update import prompt_function
+from colorama import Fore, Back, Style, init
 
 def parse_claims_to_json(input_string, table_id, paper_id):
 
@@ -81,19 +82,19 @@ def extract_table_data(json_file, paper_id):
     for table_id, table_details in json_file.items():
         if(table_id in table_types):
             table_type = table_types[table_id]
-            print("Id Tabella: " + table_id)
-            print("Tipo Tabella: " + table_type + "\n")
+            print(Fore.BLUE + "Id Tabella: " + table_id + Style.RESET_ALL)
+            print(Fore.BLUE + "Tipo Tabella: " + table_type + "\n" + Style.RESET_ALL)
             
 
             if(table_type == "relational"):
-                rows= Extraction_methods.extract_claims_from_relational_table(table_details["table"]) #non sono i claims finali
+                rows = Extraction_methods.extract_claims_from_relational_table(table_details["table"]) #non sono i claims finali
             elif(table_type == "nested relational"):
-                rows= Extraction_methods.extract_claims_from_nested_relational_table(table_details["table"]) #non sono i claims finali
+                rows = Extraction_methods.extract_claims_from_nested_relational_table(table_details["table"]) #non sono i claims finali
             elif(table_type == "cross-table"):
                 # rows= Extraction_methods.extract_claims_from_relational_table(table_details["table"]) #non sono i claims finali
                 continue
             elif(table_type == "nested cross-table"):
-                rows= Extraction_methods.extract_claims_from_nested_relational_table(table_details["table"]) #non sono i claims finali
+                rows = Extraction_methods.extract_claims_from_nested_relational_table(table_details["table"]) #non sono i claims finali
     
 
             # Estrazione dei claims
@@ -107,6 +108,8 @@ def extract_table_data(json_file, paper_id):
 
 # Reitera l'estrazione dei claims su tutti i file nella directory
 def process_directory():
+
+    init()
 
     directory = "C:/Users/hp/ClaimsProject_4HW/Claims_extraction_project/10_samples/arxiv_10_json"
     #directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria dei dati/HW4/10_samples/arxiv_10_json"
@@ -126,7 +129,8 @@ def process_directory():
 
                 # Apri il file JSON
                 with open(file_path, 'r', encoding='utf-8') as file:
-                    print("--- Nome del file:" + file_name + " ---\n")
+                    
+                    print(Fore.GREEN + "--- Nome del file:" + file_name + " ---\n" + Style.RESET_ALL)
                     
                     # Leggi il contenuto del file
                     json_file = json.load(file)

@@ -9,11 +9,11 @@ table_types = {
 
     # Paper 10362
     "S4.T1.2": A,
-    "S4.T2.6": B, # tabella di tipo A ma trattata come una nested di tipo B
+    "S4.T2.6": B, # tabella di tipo A ma trattata come una nested di tipo B (generalizzabile con nested unico)
     "S4.T3.5": A,
     "S4.T4.6": A,
     "A2.T5.2": A,
-    "A2.T6.6": B, # tabella di tipo A ma trattata come una nested di tipo B
+    "A2.T6.6": B, # tabella di tipo A ma trattata come una nested di tipo B (generalizzabile con nested unico)
     "A2.T7.2": A,
     "A2.T8.2": A,
 
@@ -45,7 +45,7 @@ table_types = {
 
     # Paper 20164
     "S3.T1.1": A,
-    "S3.T2.1": B,
+    "S3.T2.1": B, # 3 inserimenti su ours
 
     # Paper 01443
     "S3.T1.3": B,
@@ -56,10 +56,11 @@ table_types = {
     "S4.T2.10": A,
     "S4.T3.2": A,
     "S4.T4.2": A,
-    "S4.T5.6": D,
+    "S4.T5.6": D, # Tabella giusta ma modificata a posteriori
     "S4.T6.4": D,
     "S4.T7.8": D,
     "S4.T8.8": D,
+    "S4.T9.8": D,
 
     # Paper 05624
     "S4.T1.1.1": A,

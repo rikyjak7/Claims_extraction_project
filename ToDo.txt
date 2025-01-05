@@ -27,7 +27,7 @@ Materiale da relazione:
     S4.T1.30 corretta bisogna o togliere la prima riga o aggiungere shift a channels
     Sx1.T2.46.46 tabella che espone dei dettagli privi di metriche effettive e infatti non ne mostra alcuna (inoltre non ha paragraphs o caption popolati da cui poter dedurre info alcuna)
 
-    NUMERO DI TABELLE MODIFICATE A POSTERIORI DAGLI AUTORI REALI = 2 
+    NUMERO DI TABELLE MODIFICATE A POSTERIORI DAGLI AUTORI REALI = 3 
 
 Still to be done:
 1)Estrarre i claims come se fossero all-specifications-made, poi con LLM:

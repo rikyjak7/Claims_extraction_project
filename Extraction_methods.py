@@ -61,7 +61,7 @@ def extract_claims_from_nested_relational_table(html_content):
 
             # Recupera l'attributo colspan (se presente)
             colspan = header_cell.get('colspan')
-            if(not header_cell.get('rowspan')):
+            if((not header_cell.get('rowspan')) and (not colspan)):
                 colspan= 1
             if (colspan!= None):
                 colspan = int(colspan)  # Se `colspan` è presente, convertilo in intero

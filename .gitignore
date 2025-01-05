@@ -1,5 +1,6 @@
 # Ignora l'ambiente virtuale
 claims-extraction-venv/
+venv/
 
 # File Api
 API_key.py

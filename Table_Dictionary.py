@@ -35,7 +35,7 @@ table_types = {
     "S3.T4.1.3": A,
     "S3.T4.2.2": A,
 
-    # Paper 19483: importante per le cosi dette nested-cross
+    # Paper 19483: importante per le così dette nested-cross table
     "S3.T1.140.140": D,
     "S4.T2.30.30": D,
     "S4.T3.50.50": D,

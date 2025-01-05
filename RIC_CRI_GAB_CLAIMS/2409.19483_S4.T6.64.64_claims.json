@@ -1,0 +1,1346 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "66.3"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "69.8"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "66.9"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "71.9"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "76.4"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "81.6"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "62.1"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "64.6"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "78.4"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "82.7"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "77.1"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "83.2"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "72.4"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "76.4"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "80.9"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "82.8"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "75.6"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "79.6"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "76.0"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "81.8"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "76.2"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "81.3"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "63.8"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-H"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "66.2"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "74.5"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "79.4"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "68.7"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "77.7"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "61.7"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "69.3"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "67.4"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "74.1"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "76.2"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "81.5"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "56.0"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "65.5"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "31.6"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "37.8"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "64.8"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "69.8"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "76.0"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "80.6"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "69.0"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "78.1"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "39.0"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "46.7"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "72.7"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-Med2D"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "Points + BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "79.8"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MedSAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "65.2"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MedSAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "69.2"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MedSAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "68.9"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MedSAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "75.1"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MedSAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "74.3"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MedSAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "77.8"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MedSAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "63.7"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MedSAM"
+                },
+                "1": {
+                    "name": "Type",
+                    "value": "ViT-B"
+                },
+                "2": {
+                    "name": "Prompts",
+                    "value": "BBoxes"
+                },
+                "3": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "66.1"
+        }
+    }
+]

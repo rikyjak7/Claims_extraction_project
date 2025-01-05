@@ -7,16 +7,8 @@
                     "value": "UNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "3.4"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.28"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.14"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Model Size",
@@ -31,16 +23,8 @@
                     "value": "UNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "3.4"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.28"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.14"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Params (M)",
@@ -55,16 +39,8 @@
                     "value": "UNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "3.4"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.28"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.14"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Flops (G)",
@@ -79,16 +55,8 @@
                     "value": "Att UNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "7.1"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.29"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.15"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Model Size",
@@ -103,16 +71,8 @@
                     "value": "Att UNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "7.1"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.29"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.15"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Params (M)",
@@ -127,16 +87,8 @@
                     "value": "Att UNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "7.1"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.29"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.15"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Flops (G)",
@@ -151,16 +103,8 @@
                     "value": "Dense UNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "11.0"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.31"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.44"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Model Size",
@@ -175,16 +119,8 @@
                     "value": "Dense UNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "11.0"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.31"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.44"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Params (M)",
@@ -199,16 +135,8 @@
                     "value": "Dense UNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "11.0"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.31"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.44"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Flops (G)",
@@ -223,16 +151,8 @@
                     "value": "DUNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "7.4"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.43"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.23"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Model Size",
@@ -247,16 +167,8 @@
                     "value": "DUNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "7.4"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.43"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.23"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Params (M)",
@@ -271,16 +183,8 @@
                     "value": "DUNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "7.4"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.43"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.23"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Flops (G)",
@@ -295,16 +199,8 @@
                     "value": "GCC-UNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "5.5"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.39"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.18"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Model Size",
@@ -319,16 +215,8 @@
                     "value": "GCC-UNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "5.5"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.39"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.18"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Params (M)",
@@ -343,16 +231,8 @@
                     "value": "GCC-UNet"
                 },
                 "1": {
-                    "name": "Size (M)",
-                    "value": "5.5"
-                },
-                "2": {
-                    "name": "Params (M)",
-                    "value": "0.39"
-                },
-                "3": {
-                    "name": "Flops (G)",
-                    "value": "0.18"
+                    "name": "Dataset",
+                    "value": "DRIVE"
                 }
             },
             "Measure": "Flops (G)",

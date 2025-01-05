@@ -1,0 +1,1442 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE[17]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "51.6"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE[17]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "46.5"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE[17]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "53.4"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE[17]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "98.9"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE[17]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "25.9"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE[17]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "20.9"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE[17]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "24.9"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE[17]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "94.4"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DBN-DMPLS[13]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "61.3"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DBN-DMPLS[13]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "56.1"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DBN-DMPLS[13]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "62.2"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DBN-DMPLS[13]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "98.8"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DBN-DMPLS[13]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "28.3"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DBN-DMPLS[13]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "22.9"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DBN-DMPLS[13]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "27.0"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DBN-DMPLS[13]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "94.6"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "USTM[12]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "64.9"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "USTM[12]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "58.7"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "USTM[12]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "66.3"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "USTM[12]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "99.1"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "USTM[12]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "26.5"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "USTM[12]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "21.3"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "USTM[12]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "25.2"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "USTM[12]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "94.4"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GMBM-DLM[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "78.5"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GMBM-DLM[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "71.7"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GMBM-DLM[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "76.9"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GMBM-DLM[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "99.0"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GMBM-DLM[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "28.0"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GMBM-DLM[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "23.2"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GMBM-DLM[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "24.8"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GMBM-DLM[23]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "94.1"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "76.6"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "70.4"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "76.8"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "99.4"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "28.2"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "22.9"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "25.8"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "94.5"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF\u2020[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "78.8"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF\u2020[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "72.3"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF\u2020[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "78.5"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF\u2020[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "99.4"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF\u2020[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "29.6"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF\u2020[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "24.0"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF\u2020[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "26.7"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "pCE+DenseCRF\u2020[18]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "94.2"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours w/o MCDP"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "80.9"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours w/o MCDP"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "74.3"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours w/o MCDP"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "80.6"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours w/o MCDP"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "99.4"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours w/o MCDP"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "32.1"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours w/o MCDP"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "26.2"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours w/o MCDP"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "28.8"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours w/o MCDP"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "94.6"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "82.3"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "75.9"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "82.2"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "99.4"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "33.4"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "27.5"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "29.9"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "94.9"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Fully-sup"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "88.7"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Fully-sup"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "83.7"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Fully-sup"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "88.8"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Fully-sup"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "CholecSeg8k"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "99.6"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Fully-sup"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "DC"
+                }
+            },
+            "Measure": "DC",
+            "Outcome": "37.4"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Fully-sup"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "JA"
+                }
+            },
+            "Measure": "JA",
+            "Outcome": "32.2"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Fully-sup"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SE"
+                }
+            },
+            "Measure": "SE",
+            "Outcome": "36.2"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Fully-sup"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "AutoLaparo"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "SP"
+                }
+            },
+            "Measure": "SP",
+            "Outcome": "95.9"
+        }
+    }
+]

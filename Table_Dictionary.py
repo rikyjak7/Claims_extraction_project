@@ -22,7 +22,7 @@ table_types = {
     "S5.T2.6": A,
     "S5.T3.6": A,
     "S5.T4.9": A,
-    "S5.T5.6": A,
+    "S5.T5.6": B, # tabella di tipo A ma trattata come una nested di tipo B (generalizzabile con nested unico)
     "S5.T6.9": A,
     "S5.T7.3": A,
     "S5.T8.3": A,
@@ -35,7 +35,7 @@ table_types = {
     "S3.T4.1.3": A,
     "S3.T4.2.2": A,
 
-    # Paper 19483: importante per le così dette nested-cross table
+    # Paper 19483:
     "S3.T1.140.140": D,
     "S4.T2.30.30": D,
     "S4.T3.50.50": D,
@@ -45,7 +45,7 @@ table_types = {
 
     # Paper 20164
     "S3.T1.1": A,
-    "S3.T2.1": B, # 3 inserimenti su ours
+    "S3.T2.1": B, # specifiche mancanti su riga 'ours' per html errato
 
     # Paper 01443
     "S3.T1.3": B,
@@ -56,7 +56,7 @@ table_types = {
     "S4.T2.10": A,
     "S4.T3.2": A,
     "S4.T4.2": A,
-    "S4.T5.6": D, # Tabella giusta ma modificata a posteriori
+    "S4.T5.6": D,
     "S4.T6.4": D,
     "S4.T7.8": D,
     "S4.T8.8": D,

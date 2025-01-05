@@ -4,7 +4,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, iBOT"
+                    "value": "iBOT"
                 },
                 "1": {
                     "name": "Base LR",
@@ -12,7 +12,7 @@
                 },
                 "2": {
                     "name": "Warm Up",
-                    "value": "100"
+                    "value": "0"
                 }
             },
             "Measure": "Accuracy",
@@ -24,7 +24,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, iBOT"
+                    "value": "iBOT"
                 },
                 "1": {
                     "name": "Base LR",
@@ -32,7 +32,7 @@
                 },
                 "2": {
                     "name": "Warm Up",
-                    "value": "5"
+                    "value": "100"
                 }
             },
             "Measure": "Accuracy",
@@ -44,7 +44,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, iBOT"
+                    "value": "iBOT"
                 },
                 "1": {
                     "name": "Base LR",
@@ -52,7 +52,7 @@
                 },
                 "2": {
                     "name": "Warm Up",
-                    "value": "-none-"
+                    "value": "5"
                 }
             },
             "Measure": "Accuracy",
@@ -64,18 +64,10 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, iBOT"
-                },
-                "1": {
-                    "name": "Base LR",
-                    "value": "-none-"
-                },
-                "2": {
-                    "name": "Warm Up",
-                    "value": "-none-"
+                    "value": "iBOT"
                 }
             },
-            "Measure": "Average Accuracy",
+            "Measure": "AVG",
             "Outcome": "45.7"
         }
     },
@@ -84,7 +76,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, AttMask"
+                    "value": "AttMask"
                 },
                 "1": {
                     "name": "Base LR",
@@ -92,7 +84,7 @@
                 },
                 "2": {
                     "name": "Warm Up",
-                    "value": "100"
+                    "value": "0"
                 }
             },
             "Measure": "Accuracy",
@@ -104,7 +96,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, AttMask"
+                    "value": "AttMask"
                 },
                 "1": {
                     "name": "Base LR",
@@ -112,7 +104,7 @@
                 },
                 "2": {
                     "name": "Warm Up",
-                    "value": "5"
+                    "value": "100"
                 }
             },
             "Measure": "Accuracy",
@@ -124,7 +116,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, AttMask"
+                    "value": "AttMask"
                 },
                 "1": {
                     "name": "Base LR",
@@ -132,7 +124,7 @@
                 },
                 "2": {
                     "name": "Warm Up",
-                    "value": "-none-"
+                    "value": "5"
                 }
             },
             "Measure": "Accuracy",
@@ -144,18 +136,10 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, AttMask"
-                },
-                "1": {
-                    "name": "Base LR",
-                    "value": "-none-"
-                },
-                "2": {
-                    "name": "Warm Up",
-                    "value": "-none-"
+                    "value": "AttMask"
                 }
             },
-            "Measure": "Average Accuracy",
+            "Measure": "AVG",
             "Outcome": "57.4"
         }
     },
@@ -164,7 +148,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, MFM"
+                    "value": "MFM"
                 },
                 "1": {
                     "name": "Base LR",
@@ -172,7 +156,7 @@
                 },
                 "2": {
                     "name": "Warm Up",
-                    "value": "100"
+                    "value": "0"
                 }
             },
             "Measure": "Accuracy",
@@ -184,7 +168,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, MFM"
+                    "value": "MFM"
                 },
                 "1": {
                     "name": "Base LR",
@@ -192,7 +176,7 @@
                 },
                 "2": {
                     "name": "Warm Up",
-                    "value": "5"
+                    "value": "100"
                 }
             },
             "Measure": "Accuracy",
@@ -204,7 +188,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, MFM"
+                    "value": "MFM"
                 },
                 "1": {
                     "name": "Base LR",
@@ -212,7 +196,7 @@
                 },
                 "2": {
                     "name": "Warm Up",
-                    "value": "-none-"
+                    "value": "5"
                 }
             },
             "Measure": "Accuracy",
@@ -224,18 +208,10 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, MFM"
-                },
-                "1": {
-                    "name": "Base LR",
-                    "value": "-none-"
-                },
-                "2": {
-                    "name": "Warm Up",
-                    "value": "-none-"
+                    "value": "MFM"
                 }
             },
-            "Measure": "Average Accuracy",
+            "Measure": "AVG",
             "Outcome": "52.7"
         }
     },
@@ -244,7 +220,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, MFM + Com/RCom"
+                    "value": "MFM + Com/RCom"
                 },
                 "1": {
                     "name": "Base LR",
@@ -252,7 +228,7 @@
                 },
                 "2": {
                     "name": "Warm Up",
-                    "value": "100"
+                    "value": "0"
                 }
             },
             "Measure": "Accuracy",
@@ -264,67 +240,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, MFM + Com/RCom"
-                },
-                "1": {
-                    "name": "Base LR",
-                    "value": "2e-4"
-                },
-                "2": {
-                    "name": "Warm Up",
-                    "value": "5"
-                }
-            },
-            "Measure": "Accuracy",
-            "Outcome": "63.9"
-        }
-    },
-    {
-        "14": {
-            "specifications": {
-                "0": {
-                    "name": "Method",
-                    "value": "Warm Up = 0, MFM + Com/RCom"
-                },
-                "1": {
-                    "name": "Base LR",
-                    "value": "2e-3"
-                },
-                "2": {
-                    "name": "Warm Up",
-                    "value": "-none-"
-                }
-            },
-            "Measure": "Accuracy",
-            "Outcome": "59.9"
-        }
-    },
-    {
-        "15": {
-            "specifications": {
-                "0": {
-                    "name": "Method",
-                    "value": "Warm Up = 0, MFM + Com/RCom"
-                },
-                "1": {
-                    "name": "Base LR",
-                    "value": "-none-"
-                },
-                "2": {
-                    "name": "Warm Up",
-                    "value": "-none-"
-                }
-            },
-            "Measure": "Average Accuracy",
-            "Outcome": "63.4"
-        }
-    },
-    {
-        "16": {
-            "specifications": {
-                "0": {
-                    "name": "Method",
-                    "value": "Warm Up = 0, FOLK"
+                    "value": "MFM + Com/RCom"
                 },
                 "1": {
                     "name": "Base LR",
@@ -336,6 +252,58 @@
                 }
             },
             "Measure": "Accuracy",
+            "Outcome": "63.9"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM + Com/RCom"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "59.9"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM + Com/RCom"
+                }
+            },
+            "Measure": "AVG",
+            "Outcome": "63.4"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "0"
+                }
+            },
+            "Measure": "Accuracy",
             "Outcome": "71.2"
         }
     },
@@ -344,7 +312,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, FOLK"
+                    "value": "FOLK"
                 },
                 "1": {
                     "name": "Base LR",
@@ -352,7 +320,7 @@
                 },
                 "2": {
                     "name": "Warm Up",
-                    "value": "5"
+                    "value": "100"
                 }
             },
             "Measure": "Accuracy",
@@ -364,7 +332,7 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, FOLK"
+                    "value": "FOLK"
                 },
                 "1": {
                     "name": "Base LR",
@@ -372,7 +340,7 @@
                 },
                 "2": {
                     "name": "Warm Up",
-                    "value": "-none-"
+                    "value": "5"
                 }
             },
             "Measure": "Accuracy",
@@ -384,18 +352,10 @@
             "specifications": {
                 "0": {
                     "name": "Method",
-                    "value": "Warm Up = 0, FOLK"
-                },
-                "1": {
-                    "name": "Base LR",
-                    "value": "-none-"
-                },
-                "2": {
-                    "name": "Warm Up",
-                    "value": "-none-"
+                    "value": "FOLK"
                 }
             },
-            "Measure": "Average Accuracy",
+            "Measure": "AVG",
             "Outcome": "67.2"
         }
     }

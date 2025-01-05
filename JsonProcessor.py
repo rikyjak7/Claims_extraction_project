@@ -45,7 +45,6 @@ def parse_claims_to_json(input_string, table_id, paper_id):
 
         # Separare Measure e Outcome dal resto del claim
         remaining_parts = [part.strip() for part in remaining_part.split(',')]
-
         measure = remaining_parts[0] if len(remaining_parts) > 0 else None
         outcome = remaining_parts[1].rstrip('|') if len(remaining_parts) > 1 else None
 
@@ -63,6 +62,7 @@ def parse_claims_to_json(input_string, table_id, paper_id):
 
     # Salvataggio nel file JSON
     try:
+
         # Verifica se la directory esiste, altrimenti la crea
         directory = "RIC_CRI_GAB_CLAIMS"
         if not os.path.exists(directory):
@@ -90,11 +90,11 @@ def extract_table_data(json_file, paper_id):
             elif(table_type == "nested relational"):
                 rows= Extraction_methods.extract_claims_from_nested_relational_table(table_details["table"]) #non sono i claims finali
             elif(table_type == "cross-table"):
-                #rows= Extraction_methods.extract_claims_from_relational_table(table_details["table"]) #non sono i claims finali
+                # rows= Extraction_methods.extract_claims_from_relational_table(table_details["table"]) #non sono i claims finali
                 continue
             elif(table_type == "nested cross-table"):
-                #rows= Extraction_methods.extract_claims_from_nested_relational_table(table_details["table"]) #non sono i claims finali
-                continue
+                rows= Extraction_methods.extract_claims_from_nested_relational_table(table_details["table"]) #non sono i claims finali
+    
 
             # Estrazione dei claims
             prompt = prompt_function("\n".join(map(str, rows)), table_details["caption"], "\n".join(table_details["references"]))
@@ -108,10 +108,8 @@ def extract_table_data(json_file, paper_id):
 # Reitera l'estrazione dei claims su tutti i file nella directory
 def process_directory():
 
-    directory = "C:/Users/hp/ClaimsProject_4HW/Claims_extraction_project/last_json"
-    #directory = "C:/Users/hp/ClaimsProject_4HW/Claims_extraction_project/10_samples/arxiv_10_json"
+    directory = "C:/Users/hp/ClaimsProject_4HW/Claims_extraction_project/10_samples/arxiv_10_json"
     #directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria dei dati/HW4/10_samples/arxiv_10_json"
-    #directory = "C:/Users/rikyj/Documents/university/Magistrale/Ingegneria_dei_dati/HW4/Test_1json"
 
     # Controlla che il percorso sia una cartella
     if not os.path.isdir(directory):
@@ -135,5 +133,5 @@ def process_directory():
                     extract_table_data(json_file, file_name.replace(".json", ""))
             except Exception as e:
                 print(f"Errore nell'elaborazione di {file_name}: {e} \n")
-
 process_directory()
+

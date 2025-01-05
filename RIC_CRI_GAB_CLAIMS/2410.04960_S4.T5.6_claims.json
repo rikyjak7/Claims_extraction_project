@@ -1,0 +1,1802 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "53.6"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "55.6"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "67.5"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "60.0"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "59.8"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "65.0"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "52.9"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "54.5"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "67.4"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "53.6"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "57.2"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "60.6"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "54.3"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "54.9"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "68.5"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "53.1"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "55.9"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "62.6"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "46.7"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "47.3"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "48.7"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "28.4"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "29.8"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "29.5"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "48.6"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "49.2"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "59.1"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "45.6"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "47.2"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "50.0"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "47.2"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "46.8"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "61.6"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "45.2"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "46.5"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "54.4"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "43.8"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "44.6"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "61.6"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "25.4"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "26.9"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "52.5"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "41.1"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "39.4"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "60.1"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "52.3"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "53.1"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "66.3"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "50.6"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "51.8"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "63.1"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "51.0"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "51.6"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "54.6"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "50.1"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "50.7"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "67.2"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "46.4"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "48.3"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "63.9"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "54.3"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "55.7"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "70.2"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "53.5"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "54.4"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "65.7"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "48.5"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "48.5"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "63.5"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "51.7"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "53.4"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "58.6"
+        }
+    },
+    {
+        "72": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "47.2"
+        }
+    },
+    {
+        "73": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "47.2"
+        }
+    },
+    {
+        "74": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "61.1"
+        }
+    },
+    {
+        "75": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "48.6"
+        }
+    },
+    {
+        "76": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "50.4"
+        }
+    },
+    {
+        "77": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "55.3"
+        }
+    },
+    {
+        "78": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "42.4"
+        }
+    },
+    {
+        "79": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "42.1"
+        }
+    },
+    {
+        "80": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "65.1"
+        }
+    },
+    {
+        "81": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "50.0"
+        }
+    },
+    {
+        "82": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "51.0"
+        }
+    },
+    {
+        "83": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "60.9"
+        }
+    },
+    {
+        "84": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "44.2"
+        }
+    },
+    {
+        "85": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "42.4"
+        }
+    },
+    {
+        "86": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "56.3"
+        }
+    },
+    {
+        "87": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "Center Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "42.7"
+        }
+    },
+    {
+        "88": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "1 Random Point"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "41.4"
+        }
+    },
+    {
+        "89": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Prompt Type",
+                    "value": "3 Random Points"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "48.3"
+        }
+    }
+]

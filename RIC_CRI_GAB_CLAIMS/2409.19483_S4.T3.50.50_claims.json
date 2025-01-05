@@ -1,0 +1,770 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P0"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "65.04"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P0"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "69.38"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P0"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "72.00"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P0"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "77.78"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P0"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "76.39"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P0"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "81.63"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P0"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "71.14"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P0"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "73.17"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P1"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "68.88"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P1"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "73.02"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P1"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "38.68"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P1"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "41.37"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P1"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "71.03"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P1"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "75.07"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P1"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P1"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P2"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "70.26"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P2"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "74.60"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P2"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "72.51"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P2"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "78.51"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P2"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "65.23"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P2"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "69.08"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P2"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "80.92"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P2"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "82.76"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P3"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "78.42"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P3"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "82.69"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P3"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "77.12"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P3"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "83.18"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P3"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "65.35"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P3"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "69.29"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P3"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P3"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P4"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "68.86"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P4"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "72.31"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P4"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "70.46"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P4"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "75.69"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P4"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "70.22"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P4"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "74.07"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P4"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "77.38"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P4"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "79.19"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P5"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "66.41"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P5"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "69.99"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P5"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "71.06"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P5"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "76.46"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P5"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "69.82"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P5"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "73.78"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P5"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Prompt",
+                    "value": "P5"
+                },
+                "1": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "-none-"
+        }
+    }
+]

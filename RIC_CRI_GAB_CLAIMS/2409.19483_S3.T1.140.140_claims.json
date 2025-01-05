@@ -1,0 +1,2602 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SaLIP"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "44.33"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SaLIP"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "48.62"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SaLIP"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "47.96"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SaLIP"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "50.24"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SaLIP"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "63.14"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SaLIP"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "66.44"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SaLIP"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "76.32"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SaLIP"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "78.46"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SaLIP"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "57.94"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SaLIP"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "60.94"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SAMAug"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "56.39"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SAMAug"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "59.23"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SAMAug"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "45.71"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SAMAug"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "48.81"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SAMAug"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "57.18"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SAMAug"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "60.08"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SAMAug"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "44.61"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SAMAug"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "46.48"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SAMAug"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "50.97"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "SAMAug"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "53.65"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "78.42"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "82.69"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "77.12"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "83.18"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "76.39"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "81.63"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "80.92"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "82.76"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "78.21"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Zero-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "82.57"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "73.77"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "79.71"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "77.16"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "85.21"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "70.15"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "74.10"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "82.24"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "85.65"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "75.83"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "81.17"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "78.87"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "84.58"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "80.03"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "88.25"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "80.77"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "84.53"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "88.78"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "91.95"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "82.11"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Weakly Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "87.33"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "40.56"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "53.25"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "23.81"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "35.28"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "68.15"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "80.09"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "54.94"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "69.62"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "46.87"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "59.56"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "ProtoSAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "48.44"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "ProtoSAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "50.24"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "ProtoSAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "45.68"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "ProtoSAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "51.69"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "ProtoSAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "80.75"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "ProtoSAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "85.11"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "ProtoSAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "84.50"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "ProtoSAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "87.62"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "ProtoSAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "64.84"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "One-shot"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "ProtoSAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "68.67"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "47.56"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "54.25"
+        }
+    },
+    {
+        "72": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "53.82"
+        }
+    },
+    {
+        "73": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "66.40"
+        }
+    },
+    {
+        "74": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "79.25"
+        }
+    },
+    {
+        "75": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "84.80"
+        }
+    },
+    {
+        "76": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "65.68"
+        }
+    },
+    {
+        "77": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "70.56"
+        }
+    },
+    {
+        "78": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "61.58"
+        }
+    },
+    {
+        "79": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "69.00"
+        }
+    },
+    {
+        "80": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "42.04"
+        }
+    },
+    {
+        "81": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "44.30"
+        }
+    },
+    {
+        "82": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "46.43"
+        }
+    },
+    {
+        "83": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "50.29"
+        }
+    },
+    {
+        "84": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "67.97"
+        }
+    },
+    {
+        "85": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "71.63"
+        }
+    },
+    {
+        "86": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "81.50"
+        }
+    },
+    {
+        "87": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "83.40"
+        }
+    },
+    {
+        "88": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "59.49"
+        }
+    },
+    {
+        "89": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 4)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "62.41"
+        }
+    },
+    {
+        "90": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "66.36"
+        }
+    },
+    {
+        "91": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "72.22"
+        }
+    },
+    {
+        "92": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "62.82"
+        }
+    },
+    {
+        "93": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "72.76"
+        }
+    },
+    {
+        "94": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "83.44"
+        }
+    },
+    {
+        "95": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "87.73"
+        }
+    },
+    {
+        "96": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "86.49"
+        }
+    },
+    {
+        "97": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "89.96"
+        }
+    },
+    {
+        "98": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "74.78"
+        }
+    },
+    {
+        "99": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "UniverSeg"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "80.67"
+        }
+    },
+    {
+        "100": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "62.36"
+        }
+    },
+    {
+        "101": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "66.01"
+        }
+    },
+    {
+        "102": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "52.55"
+        }
+    },
+    {
+        "103": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "57.07"
+        }
+    },
+    {
+        "104": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "82.49"
+        }
+    },
+    {
+        "105": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "86.49"
+        }
+    },
+    {
+        "106": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "83.66"
+        }
+    },
+    {
+        "107": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "85.49"
+        }
+    },
+    {
+        "108": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "70.27"
+        }
+    },
+    {
+        "109": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Few-shot (K = 16)"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "Self-Prompt-SAM"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "73.77"
+        }
+    },
+    {
+        "110": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "82.47"
+        }
+    },
+    {
+        "111": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "88.32"
+        }
+    },
+    {
+        "112": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "87.74"
+        }
+    },
+    {
+        "113": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "95.10"
+        }
+    },
+    {
+        "114": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "98.72"
+        }
+    },
+    {
+        "115": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "99.51"
+        }
+    },
+    {
+        "116": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "97.10"
+        }
+    },
+    {
+        "117": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "99.18"
+        }
+    },
+    {
+        "118": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "84.63"
+        }
+    },
+    {
+        "119": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "90.42"
+        }
+    },
+    {
+        "120": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet Ensemble"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "84.72"
+        }
+    },
+    {
+        "121": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet Ensemble"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Breast Ultrasound"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "90.85"
+        }
+    },
+    {
+        "122": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet Ensemble"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "88.82"
+        }
+    },
+    {
+        "123": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet Ensemble"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Brain MRI"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "95.84"
+        }
+    },
+    {
+        "124": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet Ensemble"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "99.14"
+        }
+    },
+    {
+        "125": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet Ensemble"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung X-ray"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "99.82"
+        }
+    },
+    {
+        "126": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet Ensemble"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "98.12"
+        }
+    },
+    {
+        "127": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet Ensemble"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "Lung CT"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "99.65"
+        }
+    },
+    {
+        "128": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet Ensemble"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "85.43"
+        }
+    },
+    {
+        "129": {
+            "specifications": {
+                "0": {
+                    "name": "Technique",
+                    "value": "Fully Supervised"
+                },
+                "1": {
+                    "name": "Method",
+                    "value": "nnUNet Ensemble"
+                },
+                "2": {
+                    "name": "Modality",
+                    "value": "All"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "91.74"
+        }
+    }
+]

@@ -1,15 +1,12 @@
 Materiale da relazione:
 1)Abbiamo eliminato 2 tabelle in quanto avevano chiavi duplicate
 2)Eliminato file inappropriato
-3)Id file e table con modifiche post-estrazione(HW1): Paper 2410.04960: S4.T3.2; S4.T4.2
-4)Verifiche sui claims estratti:
+3)Verifiche sui claims estratti:
 
     TABELLE MALFORMATE
-    S4.T1.2 tabella con una specification giustamente ripetuta 2 volte (data & pre-training-dataset)
-    S4.T2.6/A2.T6.6 malformata (tabella fatta male)
-    paper 11508 5° tabella non uscita (formato strano thead & tbody)
-    tabella 6° e 9° unite ma comunque estratti i claims in maniera valida per il ground-truth
-    S5.T10.3 da modificare a mano6
+    paper 11508 tabella 6° e 9° unite ma comunque estratti i claims in maniera valida - (ground-truth)
+    paper 20164 tabella 2° corretti tutti i claims eccetto ours con delle specifiche mancanti per html errato - (ground-truth)
+    S4.T1.2 tabella con una specification giustamente ripetuta 2 volte (data & pre-training-dataset) - (task 2/task 3)
     ------------------------------------------------------------------------------------------------
     LIMITI DEL LLM (gratuito)
     S3.T1.9.1 tabella parzialmente corretta, errata nella cattura di 2 specification
@@ -17,6 +14,7 @@ Materiale da relazione:
     S3.T2.1 corretta ma va aggiustata a mano di molto poco
     S2.T1.2 da completare con una riga (Completata diventa un ottimo esempio per l'uso di LLM nei paragraphs)
     S4.T4.2 parzialmente corretta (limitata dall'LLM)
+    S4.T2.30.30 limite LLM, non ha capito come gestire una riga di specifiche (TOP-K)
     ------------------------------------------------------------------------------------------------
     TABELLE CORRETTE
     A2.T8.2 tabella perfetta non facile (relational)
@@ -26,8 +24,9 @@ Materiale da relazione:
     S5.T7.1 ci sono varie tabelle con le stesse colonne: Flops e params in particolare a volte sono specifiche a volte sono metriche per colpa di come sono i vari paragraphs 
     S4.T1.30 corretta bisogna o togliere la prima riga o aggiungere shift a channels
     Sx1.T2.46.46 tabella che espone dei dettagli privi di metriche effettive e infatti non ne mostra alcuna (inoltre non ha paragraphs o caption popolati da cui poter dedurre info alcuna)
+    S3.T2.140 tabella nested cross table perfetta
 
-    NUMERO DI TABELLE MODIFICATE A POSTERIORI DAGLI AUTORI REALI = 3 
+    NUMERO DI TABELLE MODIFICATE A POSTERIORI DAGLI AUTORI REALI = 4
 
 Still to be done:
 1)Estrarre i claims come se fossero all-specifications-made, poi con LLM:

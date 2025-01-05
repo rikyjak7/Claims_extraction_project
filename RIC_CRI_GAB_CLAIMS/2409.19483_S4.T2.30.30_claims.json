@@ -1,0 +1,450 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "CLIP[9]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "Pre-trained"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "26.68"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "CLIP[9]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "Pre-trained"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "41.80"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "CLIP[9]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "Pre-trained"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "26.17"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "CLIP[9]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "Pre-trained"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "41.13"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "PMC-CLIP[43]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "Pre-trained"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "75.47"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "PMC-CLIP[43]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "Pre-trained"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "87.46"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "PMC-CLIP[43]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "Pre-trained"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "76.78"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "PMC-CLIP[43]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "Pre-trained"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "88.35"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "Pre-trained"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "81.83"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "Pre-trained"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "92.79"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "Pre-trained"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "81.36"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "Pre-trained"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "92.27"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "InfoNCE[38]"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "84.21"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "InfoNCE[38]"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "94.47"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "InfoNCE[38]"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "85.73"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "InfoNCE[38]"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "94.99"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "DCL[39]"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "84.44"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "DCL[39]"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "94.68"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "DCL[39]"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "85.89"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "DCL[39]"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "95.09"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "HN-NCE[42]"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "84.33"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "HN-NCE[42]"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "94.60"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "HN-NCE[42]"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "85.80"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "HN-NCE[42]"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "95.10"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "DHN-NCE"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "84.70"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "DHN-NCE"
+                }
+            },
+            "Measure": "Image-to-Text Retrieval Accuracy",
+            "Outcome": "94.73"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "DHN-NCE"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "85.99"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "BiomedCLIP[11]"
+                },
+                "1": {
+                    "name": "Version",
+                    "value": "DHN-NCE"
+                }
+            },
+            "Measure": "Text-to-Image Retrieval Accuracy",
+            "Outcome": "95.17"
+        }
+    }
+]

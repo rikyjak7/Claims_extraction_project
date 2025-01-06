@@ -1,0 +1,362 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "iBOT"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "0"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "64.0"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "iBOT"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "71.1"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "iBOT"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "2.0"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "iBOT"
+                }
+            },
+            "Measure": "AVG",
+            "Outcome": "45.7"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AttMask"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "0"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "69.8"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AttMask"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "71.0"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AttMask"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "31.3"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AttMask"
+                }
+            },
+            "Measure": "AVG",
+            "Outcome": "57.4"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "0"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "57.7"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "58.5"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "41.9"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM"
+                }
+            },
+            "Measure": "AVG",
+            "Outcome": "52.7"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM + Com/RCom"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "0"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "66.3"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM + Com/RCom"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "63.9"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM + Com/RCom"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "59.9"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM + Com/RCom"
+                }
+            },
+            "Measure": "AVG",
+            "Outcome": "63.4"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "0"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "71.2"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "68.1"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "62.2"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                }
+            },
+            "Measure": "AVG",
+            "Outcome": "67.2"
+        }
+    }
+]

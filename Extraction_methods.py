@@ -127,7 +127,6 @@ def extract_claims_from_nested_relational_table(html_content):
 
     return merged_data
 
-
 # CODICE VECCHIO:
 """
 def extract_claims_from_nested_relational_table(html_content):

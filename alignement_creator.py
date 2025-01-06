@@ -84,7 +84,7 @@ def align_claims_measures(input_dir, mapping_dict, output_file):
                 measure = claim[claim_id]['Measure']
                 for key, value in mapping_dict.items():
                     # Check if the 'name' field matches any mapping key
-                    if any(mapped_key.lower() == measure for mapped_key in value):
+                    if any(mapped_key == measure for mapped_key in value): #tolto .lower() a mapped_key
                         # Construct the identifier and append to the alignment dict
                         identifier = f"{paper_id}_{table_id}_{claim_id}"
                         alignment_dict[key.lower()].append(identifier)
@@ -95,9 +95,7 @@ def align_claims_measures(input_dir, mapping_dict, output_file):
 
 
 
-
-
-input_directory="C:/Users/crist/OneDrive/Documenti/GitHub/Claims_extraction_project/RIC_CRI_GAB_CLAIMS"
+input_directory="C:/Users/hp/ClaimsProject_4HW/Claims_extraction_project/RIC_CRI_GAB_CLAIMS"
 mapping={
     "Accuracy": ["Accuracy", "Acc", "Top-1 Acc", "Top-1 Accuracy", "Top 1 Accuracy", "rAcc", "Classification Accuracy (%)", "pix. acc."],
     "OA(%)": ["OA(%)"],
@@ -152,6 +150,6 @@ mapping={
     "-none-": ["-none-"]
 }
 
-output_filename = "Values_alignement.json"
+output_filename = "Measure_alignement.json"
 
 align_claims_measures(input_directory, mapping, output_filename)

@@ -1,0 +1,1298 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "7.46"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "9470"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "7.46"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "472"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "7.46"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "2.04"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-L"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "6.03"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "6800"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-L"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "6.03"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "289"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-L"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "6.03"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "3.33"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-B"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.39"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "3294"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-B"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.39"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "129"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-B"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.39"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "6.78"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "2.13"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "2.13"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "127"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "2.13"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "6.36"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.38"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "1221"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.38"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "46"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.38"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "13.82"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.96"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "850"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.96"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "103"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.96"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "8.42"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.81"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "424"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.81"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "44"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.81"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "16.79"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.72"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "259"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.72"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "49"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.72"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "17.56"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.46"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "1159"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.46"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "61"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.46"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "20.04"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "7.53"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "2605"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "7.53"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "86"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "7.53"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "19.7"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepVit-SAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.87"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "1013"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepVit-SAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.87"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "59"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepVit-SAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.87"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "13.49"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.73"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "194"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.73"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "16"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "1.73"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "20.92"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "2.57"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "1334"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "2.57"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "67"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "2.57"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "12.28"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.49"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "2312"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.49"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "87"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.49"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "9.13"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.34"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "2230"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.34"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "73"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "4.34"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "10.28"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "2.2"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "422"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "2.2"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "42"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "2.2"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "16.53"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Q-TinySAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "2.34"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "697"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Q-TinySAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "2.34"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "73"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Q-TinySAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "2.34"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "7.03"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "0.94"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-CPU (ms)",
+            "Outcome": "-none-"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "0.94"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Latency-GPU (ms)",
+            "Outcome": "20"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Memory (GB)",
+                    "value": "0.94"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "3": {
+                    "name": "Task",
+                    "value": "SegAny"
+                }
+            },
+            "Measure": "Throughput (img/s)",
+            "Outcome": "27.9"
+        }
+    }
+]

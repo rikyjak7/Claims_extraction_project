@@ -1,0 +1,50 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "SS2D",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "CS2D",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "22.04"
+                },
+                "3": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "4.09"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.08"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "SS2D",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "CS2D",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "22.04"
+                },
+                "3": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "4.09"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.30"
+        }
+    }
+]

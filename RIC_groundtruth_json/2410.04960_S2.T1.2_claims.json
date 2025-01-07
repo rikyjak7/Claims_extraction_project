@@ -1,0 +1,50 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Parameters",
+                    "value": "Image Encoder"
+                },
+                "1": {
+                    "name": "Model Variant",
+                    "value": "SAM-H"
+                }
+            },
+            "Measure": "Image Encoder Size",
+            "Outcome": "632M"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Parameters",
+                    "value": "Image Encoder"
+                },
+                "1": {
+                    "name": "Model Variant",
+                    "value": "SAM-L"
+                }
+            },
+            "Measure": "Image Encoder Size",
+            "Outcome": "307M"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Parameters",
+                    "value": "Image Encoder"
+                },
+                "1": {
+                    "name": "Model Variant",
+                    "value": "SAM-B"
+                }
+            },
+            "Measure": "Image Encoder Size",
+            "Outcome": "86M"
+        }
+    }
+]

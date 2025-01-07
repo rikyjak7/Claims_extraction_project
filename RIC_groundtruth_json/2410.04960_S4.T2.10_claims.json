@@ -1,0 +1,362 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "641.09M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "5490"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "2730"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "100"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-L"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "312.34M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "2640"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "1310"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "48.26"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-B"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "93.74M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "746.4"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "370.47"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "13.93"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "80.83M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "533.87"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "266.44"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "10.70"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "68M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "887.6"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "-none-"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "13.39"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "10.13M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "76.39"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "37.49"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "1.45"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "9.58M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "44.02"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "21.81"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "1.03"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "10.22M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "53.64"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "26.74"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "1.18"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "26.41M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "371.68"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "185.56"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "5.90"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepVit-SAM"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "27.22M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "231.65"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "115.07"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "4.23"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "34.79M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "154.24"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "76.89"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "3.68"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "203.35M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "523.07"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "261.21"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "16.94"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "28.01M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "196.21"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "96.73"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "3.83"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "9.85M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "47.66"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "23.19"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "1.08"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "#Params",
+                    "value": "10.13M"
+                },
+                "2": {
+                    "name": "GFLOPs",
+                    "value": "76.39"
+                },
+                "3": {
+                    "name": "GMACs",
+                    "value": "37.94"
+                }
+            },
+            "Measure": "EER (%)",
+            "Outcome": "1.45"
+        }
+    }
+]

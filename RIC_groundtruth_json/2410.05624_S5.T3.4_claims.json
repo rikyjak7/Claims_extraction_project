@@ -1,0 +1,242 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "CVSSBlock",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "MFMSBlock",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.08"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "CVSSBlock",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "MFMSBlock",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.59"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "CVSSBlock",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "MFMSBlock",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.42"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "CVSSBlock",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "MFMSBlock",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.97"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "CVSSBlock",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "MFMSBlock",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "FLOPs(Gbps)",
+            "Outcome": "4.09"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "CVSSBlock",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "MFMSBlock",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "FLOPs(Gbps)",
+            "Outcome": "5.61"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "CVSSBlock",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "MFMSBlock",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "FLOPs(Gbps)",
+            "Outcome": "4.18"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "CVSSBlock",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "MFMSBlock",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "FLOPs(Gbps)",
+            "Outcome": "5.71"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "CVSSBlock",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "MFMSBlock",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "Params(Mb)",
+            "Outcome": "22.04"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "CVSSBlock",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "MFMSBlock",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "Params(Mb)",
+            "Outcome": "30.44"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "CVSSBlock",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "MFMSBlock",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "Params(Mb)",
+            "Outcome": "22.43"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "CVSSBlock",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "MFMSBlock",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "ISPRS Vaihingen"
+                }
+            },
+            "Measure": "Params(Mb)",
+            "Outcome": "30.84"
+        }
+    }
+]

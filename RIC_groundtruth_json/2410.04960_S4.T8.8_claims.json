@@ -1,0 +1,1922 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "43.8"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "26.1"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "48.1"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "60.4"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "46.9"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "31.5"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "51.8"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "64.4"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "43.6"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "26.0"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "47.9"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "60.2"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "46.8"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "31.5"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "51.6"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "64.2"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "42.4"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "24.1"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "47.4"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "60.5"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "45.1"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "28.2"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "50.8"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "64.6"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "34.2"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "19.7"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "40.1"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "46.6"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "35.7"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "22.1"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "42.1"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "48.2"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "39.0"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "21.7"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "42.8"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "56.5"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "41.4"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "25.7"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "45.6"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "60.5"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "39.5"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "22.6"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "43.7"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "56.0"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "42.5"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "27.4"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "46.9"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "59.5"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "36.6"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "23.0"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "41.3"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "49.4"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "39.6"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "27.2"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "44.7"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "53.4"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "32.9"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "24.1"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "38.6"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "40.7"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "36.5"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "29.4"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "42.3"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "44.9"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "41.0"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "23.8"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "45.1"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "57.9"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "43.8"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "28.3"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "48.2"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "61.6"
+        }
+    },
+    {
+        "72": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "40.6"
+        }
+    },
+    {
+        "73": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "23.9"
+        }
+    },
+    {
+        "74": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "44.7"
+        }
+    },
+    {
+        "75": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "57.0"
+        }
+    },
+    {
+        "76": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "43.5"
+        }
+    },
+    {
+        "77": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "28.7"
+        }
+    },
+    {
+        "78": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "47.8"
+        }
+    },
+    {
+        "79": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "60.8"
+        }
+    },
+    {
+        "80": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "39.3"
+        }
+    },
+    {
+        "81": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "22.5"
+        }
+    },
+    {
+        "82": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "43.1"
+        }
+    },
+    {
+        "83": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "55.9"
+        }
+    },
+    {
+        "84": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "42.1"
+        }
+    },
+    {
+        "85": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "27.1"
+        }
+    },
+    {
+        "86": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "46.0"
+        }
+    },
+    {
+        "87": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "59.6"
+        }
+    },
+    {
+        "88": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "39.7"
+        }
+    },
+    {
+        "89": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "22.8"
+        }
+    },
+    {
+        "90": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "43.5"
+        }
+    },
+    {
+        "91": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "56.7"
+        }
+    },
+    {
+        "92": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "42.4"
+        }
+    },
+    {
+        "93": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "27.4"
+        }
+    },
+    {
+        "94": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "46.5"
+        }
+    },
+    {
+        "95": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "60.6"
+        }
+    },
+    {
+        "96": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "42.7"
+        }
+    },
+    {
+        "97": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "24.1"
+        }
+    },
+    {
+        "98": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "46.8"
+        }
+    },
+    {
+        "99": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "61.2"
+        }
+    },
+    {
+        "100": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "46.0"
+        }
+    },
+    {
+        "101": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "29.2"
+        }
+    },
+    {
+        "102": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "50.3"
+        }
+    },
+    {
+        "103": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "65.7"
+        }
+    },
+    {
+        "104": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "44.7"
+        }
+    },
+    {
+        "105": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "26.0"
+        }
+    },
+    {
+        "106": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "48.9"
+        }
+    },
+    {
+        "107": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "62.9"
+        }
+    },
+    {
+        "108": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "48.2"
+        }
+    },
+    {
+        "109": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "31.5"
+        }
+    },
+    {
+        "110": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "52.6"
+        }
+    },
+    {
+        "111": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "67.3"
+        }
+    },
+    {
+        "112": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "34.3"
+        }
+    },
+    {
+        "113": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "18.0"
+        }
+    },
+    {
+        "114": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "38.4"
+        }
+    },
+    {
+        "115": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "YOLOv8"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "50.9"
+        }
+    },
+    {
+        "116": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "36.3"
+        }
+    },
+    {
+        "117": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "21.2"
+        }
+    },
+    {
+        "118": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "41.2"
+        }
+    },
+    {
+        "119": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "GroundingDINO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "54.5"
+        }
+    }
+]

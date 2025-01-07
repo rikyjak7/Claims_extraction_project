@@ -1,0 +1,1202 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "77.4"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "77.8"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "78.0"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "79.1"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "77.3"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "77.7"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "77.0"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAMfast-H"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "78.0"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "75.7"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "76.6"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "70.4"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM2-B+"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "72.4"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "60.5"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "60.6"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "50.4"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "50.6"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "73.4"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.0"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.4"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.8"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "75.9"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "76.2"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.4"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.8"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "72.6"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "73.3"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "72.9"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.5"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "69.1"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "69.0"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.7"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "75.5"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "75.1"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "75.7"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "73.6"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.8"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "78.5"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "78.2"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "78.0"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "77.9"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "79.9"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "79.8"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "79.9"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "79.7"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "75.5"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "76.3"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.3"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "76.0"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.4"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "75.2"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "72.7"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.5"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "73.7"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "73.9"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "73.6"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "74.1"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "69.7"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "70.2"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_1"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "65.1"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "LVIS"
+                },
+                "2": {
+                    "name": "Box Type",
+                    "value": "box_2"
+                }
+            },
+            "Measure": "mIoU",
+            "Outcome": "66.5"
+        }
+    }
+]

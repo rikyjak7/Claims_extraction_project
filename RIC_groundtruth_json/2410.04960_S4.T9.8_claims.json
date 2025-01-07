@@ -1,0 +1,2178 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                     "name": "Dataset",
+                    "value": "COCO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "26.7"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "44.4"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+            },
+            "Measure": "APL",
+            "Outcome": "51.3"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+            },
+            "Measure": "AP",
+            "Outcome": "39.2"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+            },
+            "Measure": "APS",
+            "Outcome": "31.8"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "51.0"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "63.6"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SAM-H"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "46.8"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "19.4"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+            },
+            "Measure": "APM",
+            "Outcome": "38.6"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "40.9"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "31.1"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "21.6"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "41.2"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "48.0"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "FastSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "35.3"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "22.7"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "39.8"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "47.6"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "34.9"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "27.0"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "46.5"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "61.1"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "MobileSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "42.7"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "23.5"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "40.3"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "46.6"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "35.2"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "21.6"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "44.3"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "59.4"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EdgeSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "32.1"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "22.9"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "39.2"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "41.7"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "32.7"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "26.5"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "43.6"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "53.0"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-Ti"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "38.8"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "25.8"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "38.4"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "33.7"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "30.4"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "27.8"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "41.5"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "44.4"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientSAM-S"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "35.8"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "24.7"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "41.7"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "48.2"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "36.5"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "29.1"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "48.6"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "61.4"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "RepViT-SAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "44.4"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "24.9"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "40.5"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "43.1"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "34.3"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "29.3"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "46.8"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "56.5"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-50"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "42.2"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "22.7"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "39.6"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "47.0"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "34.9"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "21.6"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "43.9"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "59.0"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "SlimSAM-77"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "26.8"
+        }
+    },
+    {
+        "72": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "23.2"
+        }
+    },
+    {
+        "73": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "39.9"
+        }
+    },
+    {
+        "74": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "47.5"
+        }
+    },
+    {
+        "75": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "35.2"
+        }
+    },
+    {
+        "76": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "27.4"
+        }
+    },
+    {
+        "77": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "46.6"
+        }
+    },
+    {
+        "78": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "61.2"
+        }
+    },
+    {
+        "79": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "TinySAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "43.1"
+        }
+    },
+    {
+        "80": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "24.1"
+        }
+    },
+    {
+        "81": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "42.7"
+        }
+    },
+    {
+        "82": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "51.6"
+        }
+    },
+    {
+        "83": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "37.9"
+        }
+    },
+    {
+        "84": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "-"
+        }
+    },
+    {
+        "85": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "-"
+        }
+    },
+    {
+        "86": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "-"
+        }
+    },
+    {
+        "87": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-L0"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "-"
+        }
+    },
+    {
+        "88": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "26.3"
+        }
+    },
+    {
+        "89": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "44.6"
+        }
+    },
+    {
+        "90": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "52.2"
+        }
+    },
+    {
+        "91": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "39.5"
+        }
+    },
+    {
+        "92": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "-"
+        }
+    },
+    {
+        "93": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "-"
+        }
+    },
+    {
+        "94": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "-"
+        }
+    },
+    {
+        "95": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "EfficientViT-SAM-XL1"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "-"
+        }
+    },
+    {
+        "96": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "13.2"
+        }
+    },
+    {
+        "97": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "31.9"
+        }
+    },
+    {
+        "98": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APL",
+            "Outcome": "37.6"
+        }
+    },
+    {
+        "99": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "Detic"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "25.1"
+        }
+    },
+    {
+        "100": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APS",
+            "Outcome": "-"
+        }
+    },
+    {
+        "101": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "APM",
+            "Outcome": "-"
+        }
+    },
+    {
+        "102": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }                
+            },
+            "Measure": "APL",
+            "Outcome": "-"
+        }
+    },
+    {
+        "103": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "NanoSAM"
+                },
+                "1": {
+                    "name": "Detector",
+                    "value": "H-Deformable-DETR"
+                },
+                "2": {
+                    "name": "Dataset",
+                    "value": "COCO"
+                }
+                
+            },
+            "Measure": "AP",
+            "Outcome": "-"
+        }
+    }
+]

@@ -1,0 +1,1154 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "1"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.58"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.82"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "1"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.012"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "1"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "5.48"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "1"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "6.37"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "1"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "23.95"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "2"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.59"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "2"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.82"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "2"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.011"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "2"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "5.36"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "2"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "6.42"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "2"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "23.37"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "3"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.25"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "3"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.85"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "3"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.011"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "3"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "5.23"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "3"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "5.83"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "3"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "22.16"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "4"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.15"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "4"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.85"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "4"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.011"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "4"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "5.13"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "4"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "5.78"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "4"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "22.75"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "5"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.39"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "5"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.84"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "5"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.011"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "5"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "5.24"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "5"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "5.95"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "5"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "22.32"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "Average"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "5.39"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "Average"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.85"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "Average"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.011"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "Average"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "5.10"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "Average"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "5.86"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SurgPointTransformer"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "Average"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "22.90"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "1"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "6.31"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "1"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.86"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "1"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.020"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "1"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "6.26"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "1"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "6.40"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "1"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "23.46"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "2"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "6.27"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "2"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.85"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "2"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.021"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "2"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "6.14"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "2"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "6.49"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "2"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "23.02"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "3"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "6.21"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "3"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.86"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "3"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.020"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "3"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "6.22"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "3"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "6.29"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "3"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "22.52"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "4"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "6.02"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "4"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.87"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "4"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.020"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "4"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "5.99"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "4"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "6.10"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "4"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "22.86"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "5"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "6.05"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "5"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.87"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "5"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.020"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "5"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "5.98"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "5"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "6.22"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "5"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "22.63"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "Average"
+                }
+            },
+            "Measure": "CD",
+            "Outcome": "6.17"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "Average"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "0.86"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "Average"
+                }
+            },
+            "Measure": "EMD",
+            "Outcome": "0.020"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "Average"
+                }
+            },
+            "Measure": "CD_top",
+            "Outcome": "6.12"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "Average"
+                }
+            },
+            "Measure": "CD_bottom",
+            "Outcome": "6.30"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "VRCNet"
+                },
+                "1": {
+                    "name": "Class",
+                    "value": "Average"
+                }
+            },
+            "Measure": "SNR",
+            "Outcome": "22.89"
+        }
+    }
+]

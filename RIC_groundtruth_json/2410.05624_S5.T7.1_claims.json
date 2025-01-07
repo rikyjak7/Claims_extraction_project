@@ -1,0 +1,202 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BANet[25]"
+                },
+                "1": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "3.26"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "12.72"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "64.13"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ABCNet[26]"
+                },
+                "1": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "3.91"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "13.39"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "71.85"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNetFormer[7]"
+                },
+                "1": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "2.94"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "11.68"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "70.63"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "A2superscriptA2{\\rm A^{2}}roman_A start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-FPN[27]"
+                },
+                "1": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "10.46"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "22.82"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "72.55"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAResU-Net[28]"
+                },
+                "1": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "8.78"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "23.27"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "74.05"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MANet[14]"
+                },
+                "1": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "19.45"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "35.86"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "74.11"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CMTFNet[29]"
+                },
+                "1": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "8.57"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "30.07"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.05"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Rs3Mamba[11]"
+                },
+                "1": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "15.82"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "49.66"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "73.18"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CM-UNet[12]"
+                },
+                "1": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "3.17"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "13.55"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "74.10"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CHVM-UNet(ours)"
+                },
+                "1": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "5.71"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "30.84"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.97"
+        }
+    }
+]

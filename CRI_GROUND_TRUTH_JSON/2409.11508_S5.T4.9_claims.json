@@ -1,0 +1,1410 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "83.75"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "100"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "93.98"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "L",
+            "Outcome": "89.06"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSe",
+            "Outcome": "85.84"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSp",
+            "Outcome": "99.19"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rAcc",
+            "Outcome": "95.74"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2nd observer"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Mcc",
+            "Outcome": "76.00"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "80.09"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "99.75"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "90.06"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "L",
+            "Outcome": "89.11"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSe",
+            "Outcome": "71.57"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSp",
+            "Outcome": "95.11"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rAcc",
+            "Outcome": "89.08"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "HED[14]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Mcc",
+            "Outcome": "66.00"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIU[25]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "80.43"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIU[25]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "99.56"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIU[25]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "91.52"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIU[25]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "L",
+            "Outcome": "88.23"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIU[25]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSe",
+            "Outcome": "82.36"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIU[25]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSp",
+            "Outcome": "96.85"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIU[25]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rAcc",
+            "Outcome": "93.13"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIU[25]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Mcc",
+            "Outcome": "71.61"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "61.74"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "99.60"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "84.23"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "L",
+            "Outcome": "73.38"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSe",
+            "Outcome": "54.93"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSp",
+            "Outcome": "99.78"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rAcc",
+            "Outcome": "88.32"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepVessel[24]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Mcc",
+            "Outcome": "73.34"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "V-GAN[27]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "84.82"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "V-GAN[27]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "99.64"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "V-GAN[27]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "94.69"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "V-GAN[27]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "L",
+            "Outcome": "89.84"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "V-GAN[27]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSe",
+            "Outcome": "80.77"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "V-GAN[27]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSp",
+            "Outcome": "99.63"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "V-GAN[27]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rAcc",
+            "Outcome": "94.76"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "V-GAN[27]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Mcc",
+            "Outcome": "80.24"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "81.06"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "99.61"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "93.08"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "L",
+            "Outcome": "87.35"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSe",
+            "Outcome": "76.11"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSp",
+            "Outcome": "99.57"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rAcc",
+            "Outcome": "93.53"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "JL-UNet[37]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Mcc",
+            "Outcome": "78.98"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SWT-FCN[29]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "83.92"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SWT-FCN[29]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "99.73"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SWT-FCN[29]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "94.36"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SWT-FCN[29]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "L",
+            "Outcome": "89.11"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SWT-FCN[29]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSe",
+            "Outcome": "79.63"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SWT-FCN[29]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSp",
+            "Outcome": "99.64"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SWT-FCN[29]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rAcc",
+            "Outcome": "94.48"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SWT-FCN[29]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Mcc",
+            "Outcome": "80.53"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepDyn[30]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "84.53"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepDyn[30]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "90.70"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepDyn[30]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "94.58"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepDyn[30]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "L",
+            "Outcome": "89.61"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepDyn[30]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSe",
+            "Outcome": "81.52"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepDyn[30]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSp",
+            "Outcome": "99.44"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepDyn[30]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rAcc",
+            "Outcome": "94.82"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeepDyn[30]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Mcc",
+            "Outcome": "80.02"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAP[65]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "82.55"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAP[65]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "99.72"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAP[65]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "93.74"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAP[65]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "L",
+            "Outcome": "88.24"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAP[65]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSe",
+            "Outcome": "78.57"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAP[65]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSp",
+            "Outcome": "99.57"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAP[65]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rAcc",
+            "Outcome": "94.15"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAP[65]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Mcc",
+            "Outcome": "79.00"
+        }
+    },
+    {
+        "72": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIS-GP[31]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "84.94"
+        }
+    },
+    {
+        "73": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIS-GP[31]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "99.68"
+        }
+    },
+    {
+        "74": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIS-GP[31]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "94.91"
+        }
+    },
+    {
+        "75": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIS-GP[31]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "L",
+            "Outcome": "89.74"
+        }
+    },
+    {
+        "76": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIS-GP[31]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSe",
+            "Outcome": "80.22"
+        }
+    },
+    {
+        "77": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIS-GP[31]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSp",
+            "Outcome": "99.64"
+        }
+    },
+    {
+        "78": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIS-GP[31]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rAcc",
+            "Outcome": "94.66"
+        }
+    },
+    {
+        "79": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DRIS-GP[31]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Mcc",
+            "Outcome": "81.84"
+        }
+    },
+    {
+        "80": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F",
+            "Outcome": "85.83"
+        }
+    },
+    {
+        "81": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "C",
+            "Outcome": "99.75"
+        }
+    },
+    {
+        "82": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "A",
+            "Outcome": "95.10"
+        }
+    },
+    {
+        "83": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "L",
+            "Outcome": "90.46"
+        }
+    },
+    {
+        "84": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSe",
+            "Outcome": "82.60"
+        }
+    },
+    {
+        "85": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rSp",
+            "Outcome": "99.17"
+        }
+    },
+    {
+        "86": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "rAcc",
+            "Outcome": "95.06"
+        }
+    },
+    {
+        "87": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Mcc",
+            "Outcome": "80.27"
+        }
+    }
+]

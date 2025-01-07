@@ -1,0 +1,502 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "iBOT"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "0"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "33.2"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "iBOT"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "59.0"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "iBOT"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "1.4"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "iBOT"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                }
+            },
+            "Measure": "AVG",
+            "Outcome": "31.2"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AttMask"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "0"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "50.4"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AttMask"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "59.1"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AttMask"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "3.2"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AttMask"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                }
+            },
+            "Measure": "AVG",
+            "Outcome": "37.6"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "0"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "26.9"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "31.6"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "6.3"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                }
+            },
+            "Measure": "AVG",
+            "Outcome": "21.6"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM + Com/RCom"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "0"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "42.5"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM + Com/RCom"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "44.5"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM + Com/RCom"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "10.7"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM + Com/RCom"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                }
+            },
+            "Measure": "AVG",
+            "Outcome": "32.6"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "0"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "51.7"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-4"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "100"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "56.1"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Base LR",
+                    "value": "2e-3"
+                },
+                "2": {
+                    "name": "Warm Up",
+                    "value": "5"
+                },
+                "3": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                },
+                "4": {
+                    "name": "Epochs",
+                    "value": "1000"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "20.5"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1k (1%)"
+                }
+            },
+            "Measure": "AVG",
+            "Outcome": "42.8"
+        }
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "ViT-S/16"
+                },
+                "1": {
+                    "name": "Methodology",
+                    "value": "FOLK"
+                },
+                "2": {
+                    "name": "\u03b1",
+                    "value": "4"
+                }
+            },
+            "Measure": "Top 1 Accuracy",
+            "Outcome": "80.7"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "ViT-S/16"
+                },
+                "1": {
+                    "name": "Methodology",
+                    "value": "FOLK"
+                },
+                "2": {
+                    "name": "\u03b1",
+                    "value": "3"
+                }
+            },
+            "Measure": "Top 1 Accuracy",
+            "Outcome": "80.8"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "ViT-S/16"
+                },
+                "1": {
+                    "name": "Methodology",
+                    "value": "FOLK"
+                },
+                "2": {
+                    "name": "\u03b1",
+                    "value": "2"
+                }
+            },
+            "Measure": "Top 1 Accuracy",
+            "Outcome": "81.2"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "ViT-S/16"
+                },
+                "1": {
+                    "name": "Methodology",
+                    "value": "FOLK"
+                },
+                "2": {
+                    "name": "\u03b1",
+                    "value": "1"
+                }
+            },
+            "Measure": "Top 1 Accuracy",
+            "Outcome": "81.6"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "ViT-S/16"
+                },
+                "1": {
+                    "name": "Methodology",
+                    "value": "FOLK"
+                },
+                "2": {
+                    "name": "\u03b1",
+                    "value": "0.1"
+                }
+            },
+            "Measure": "Top 1 Accuracy",
+            "Outcome": "81.4"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "ViT-S/16"
+                },
+                "1": {
+                    "name": "Methodology",
+                    "value": "FOLK"
+                },
+                "2": {
+                    "name": "\u03b1",
+                    "value": "0.05"
+                }
+            },
+            "Measure": "Top 1 Accuracy",
+            "Outcome": "81.4"
+        }
+    }
+]

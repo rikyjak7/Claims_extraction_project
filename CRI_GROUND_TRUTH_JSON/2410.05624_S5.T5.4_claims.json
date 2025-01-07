@@ -1,0 +1,218 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Local Branch",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "Residual Block",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "22.04"
+                },
+                "3": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "4.09"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.30"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Local Branch",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "Residual Block",
+                    "value": "\u00d7\\times\u00d7"
+                }
+            },
+            "Measure": "FLOPs(Gbps)",
+            "Outcome": "4.09"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Local Branch",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "Residual Block",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "22.04"
+                },
+                "3": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "4.09"
+                }
+            },
+            "Measure": "Params(Mb)",
+            "Outcome": "22.04"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Local Branch",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Residual Block",
+                    "value": "\u00d7\\times\u00d7"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.42"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Local Branch",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Residual Block",
+                    "value": "\u00d7\\times\u00d7"
+                }
+            },
+            "Measure": "FLOPs(Gbps)",
+            "Outcome": "5.61"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Local Branch",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Residual Block",
+                    "value": "\u00d7\\times\u00d7"
+                }
+            },
+            "Measure": "Params(Mb)",
+            "Outcome": "30.44"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Local Branch",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "Residual Block",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.44"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Local Branch",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "Residual Block",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "FLOPs(Gbps)",
+            "Outcome": "4.09"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Local Branch",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "1": {
+                    "name": "Residual Block",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "Params(Mb)",
+            "Outcome": "22.04"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Local Branch",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Residual Block",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.59"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Local Branch",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Residual Block",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "FLOPs(Gbps)",
+            "Outcome": "5.61"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Local Branch",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Residual Block",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Params(Mb)",
+                    "value": "30.44"
+                },
+                "3": {
+                    "name": "FLOPs(Gbps)",
+                    "value": "5.61"
+                }
+            },
+            "Measure": "Params(Mb)",
+            "Outcome": "30.44"
+        }
+    }
+]

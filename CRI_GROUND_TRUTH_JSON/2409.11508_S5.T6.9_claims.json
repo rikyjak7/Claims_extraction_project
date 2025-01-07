@@ -1,0 +1,722 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Baseline (UNet)[32]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "81.76"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Baseline (UNet)[32]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.36"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Baseline (UNet)[32]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.03"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Baseline (UNet)[32]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.56"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Baseline (UNet)[32]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.86"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Baseline (Capsule UNet)[48]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "81.19"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Baseline (Capsule UNet)[48]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.07"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Baseline (Capsule UNet)[48]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.12"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Baseline (Capsule UNet)[48]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.53"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Baseline (Capsule UNet)[48]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.81"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/ Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "81.42"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/ Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "77.96"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/ Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "97.79"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/ Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.52"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/ Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.82"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/ SK[66]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "82.12"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/ SK[66]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.16"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/ SK[66]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "97.76"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/ SK[66]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.65"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/ SK[66]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.01"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/SGAF"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "82.30"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/SGAF"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.98"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/SGAF"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.18"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/SGAF"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.67"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "Cap Conv[48]/SGAF"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.04"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/ Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "81.82"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/ Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.53"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/ Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "97.92"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/ Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.59"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/ Conv1x1[21]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.87"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/ SK[66]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "82.23"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/ SK[66]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.86"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/ SK[66]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "97.91"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/ SK[66]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.68"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/ SK[66]"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.03"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/SGAF(Parallel)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "81.75"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/SGAF(Parallel)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "79.36"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/SGAF(Parallel)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.05"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/SGAF(Parallel)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.64"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/SGAF(Parallel)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.99"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/SGAF(Serial)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "82.42"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/SGAF(Serial)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "79.45"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/SGAF(Serial)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.11"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/SGAF(Serial)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.70"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Method type",
+                    "value": "GC Conv/SGAF(Serial)"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "98.07"
+        }
+    }
+]

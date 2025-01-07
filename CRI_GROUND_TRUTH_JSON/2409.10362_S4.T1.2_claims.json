@@ -1,0 +1,522 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Scratch"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "(Touvron et al., 2021)"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "-"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "-"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "-"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "-none-"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "79.9"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MAE"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "(He et al., 2022a)"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "ImageNet-1K"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "300"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "\u2713"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "80.6"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SimMIM"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "(Xie et al., 2022)"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "ImageNet-1K"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "300"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "\u2713"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "80.9"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "iBOT"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "(Zhou et al., 2022)"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "ImageNet-1K"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "300"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "\u2713"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "81.1"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BEiT"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "(Bao et al., 2022)"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "ImageNet-1K"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "300"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "\u2713"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "81.3"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "AttMask"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "(Kakogeorgiou et al., 2022)"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "ImageNet-1K"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "300"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "\u2713"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "81.3"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MoCo V3"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "(Ci et al., 2022)"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "ImageNet-1K"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "600"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "-"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "81.4"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DINO"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "(Caron et al., 2021)"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "ImageNet-1K"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "1600"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "-"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "81.5"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "(Xie et al., 2023)"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "ImageNet-1K"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "300"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "-"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "81.6"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM\u2217"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "(Xie et al., 2023)"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "ImageNet-1K"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "300"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "-"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "81.2"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "(Xie et al., 2023)"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "ImageNet-1K"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "300"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "-"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "81.4"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "ImageNet-1K"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "300"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "-"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "81.6"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Data",
+                    "value": "ImageNet-1K"
+                },
+                "3": {
+                    "name": "Epoch",
+                    "value": "800"
+                },
+                "4": {
+                    "name": "Token",
+                    "value": "-"
+                },
+                "5": {
+                    "name": "Image Size",
+                    "value": "224x224"
+                },
+                "6": {
+                    "name": "Encoder",
+                    "value": "ViT-S/16"
+                },
+                "7": {
+                    "name": "Pre-training Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Accuracy",
+            "Outcome": "82.1"
+        }
+    }
+]

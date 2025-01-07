@@ -1,0 +1,242 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Model Size (M)",
+            "Outcome": "3.4"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Params (M)",
+            "Outcome": "0.28"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Flops (G)",
+            "Outcome": "0.14"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Model Size (M)",
+            "Outcome": "7.1"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Params (M)",
+            "Outcome": "0.29"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Att UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Flops (G)",
+            "Outcome": "0.15"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Model Size (M)",
+            "Outcome": "11.0"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Params (M)",
+            "Outcome": "0.31"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Dense UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Flops (G)",
+            "Outcome": "0.44"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Model Size (M)",
+            "Outcome": "7.4"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Params (M)",
+            "Outcome": "0.43"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DUNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Flops (G)",
+            "Outcome": "0.23"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Model Size (M)",
+            "Outcome": "5.5"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Params (M)",
+            "Outcome": "0.39"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "GCC-UNet"
+                },
+                "1": {
+                    "name": "Dataset",
+                    "value": "DRIVE"
+                }
+            },
+            "Measure": "Flops (G)",
+            "Outcome": "0.18"
+        }
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Multi-Scale",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Multi-Frequency",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "2": {
+                    "name": "Adaptive 1D Conv",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "3": {
+                    "name": "FC",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.63"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Multi-Scale",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Multi-Frequency",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "2": {
+                    "name": "Adaptive 1D Conv",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "3": {
+                    "name": "FC",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "FLOPs(Gbps)",
+            "Outcome": "5.69"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Multi-Scale",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Multi-Frequency",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "2": {
+                    "name": "Adaptive 1D Conv",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "3": {
+                    "name": "FC",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "Params(Mb)",
+            "Outcome": "31.24"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Multi-Scale",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Multi-Frequency",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Adaptive 1D Conv",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "3": {
+                    "name": "FC",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.71"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Multi-Scale",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Multi-Frequency",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Adaptive 1D Conv",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "3": {
+                    "name": "FC",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "FLOPs(Gbps)",
+            "Outcome": "5.71"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Multi-Scale",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Multi-Frequency",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Adaptive 1D Conv",
+                    "value": "\u00d7\\times\u00d7"
+                },
+                "3": {
+                    "name": "FC",
+                    "value": "\u2713"
+                }
+            },
+            "Measure": "Params(Mb)",
+            "Outcome": "30.94"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Multi-Scale",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Multi-Frequency",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Adaptive 1D Conv",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "FC",
+                    "value": "\u00d7\\times\u00d7"
+                }
+            },
+            "Measure": "mIoU(%)",
+            "Outcome": "75.97"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Multi-Scale",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Multi-Frequency",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Adaptive 1D Conv",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "FC",
+                    "value": "\u00d7\\times\u00d7"
+                }
+            },
+            "Measure": "FLOPs(Gbps)",
+            "Outcome": "5.71"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Multi-Scale",
+                    "value": "\u2713"
+                },
+                "1": {
+                    "name": "Multi-Frequency",
+                    "value": "\u2713"
+                },
+                "2": {
+                    "name": "Adaptive 1D Conv",
+                    "value": "\u2713"
+                },
+                "3": {
+                    "name": "FC",
+                    "value": "\u00d7\\times\u00d7"
+                }
+            },
+            "Measure": "Params(Mb)",
+            "Outcome": "30.84"
+        }
+    }
+]

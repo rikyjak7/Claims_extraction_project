@@ -1,0 +1,66 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Filters",
+                    "value": "Gabor"
+                },
+                "1": {
+                    "name": "Framework",
+                    "value": "FOLK"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "80.1"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Filters",
+                    "value": "Token Mask"
+                },
+                "1": {
+                    "name": "Framework",
+                    "value": "FOLK"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "80.3"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Filters",
+                    "value": "Circle Mask"
+                },
+                "1": {
+                    "name": "Framework",
+                    "value": "FOLK"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "80.4"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Filters",
+                    "value": "C\u2062o\u2062m\ud835\udc36\ud835\udc5c\ud835\udc5aComitalic_C italic_o italic_m/R\u2062C\u2062o\u2062m\ud835\udc45\ud835\udc36\ud835\udc5c\ud835\udc5aRComitalic_R italic_C italic_o italic_m"
+                },
+                "1": {
+                    "name": "Framework",
+                    "value": "FOLK"
+                }
+            },
+            "Measure": "Accuracy",
+            "Outcome": "81.6"
+        }
+    }
+]

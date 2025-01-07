@@ -1,0 +1,202 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline (UNet)[32]"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "81.76"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline (UNet)[32]"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.36"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline (UNet)[32]"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.03"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline (UNet)[32]"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.56"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline (UNet)[32]"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.86"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Capsule Conv[48]"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "81.19"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Capsule Conv[48]"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.07"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Capsule Conv[48]"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.12"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Capsule Conv[48]"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.53"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+ Capsule Conv[48]"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.81"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+GC Conv (Proposed)"
+                },
+                "1": {
+                    "name": "framework",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "F1",
+            "Outcome": "82.01"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+GC Conv (Proposed)"
+                },
+                "1": {
+                    "name": "framework",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "Se",
+            "Outcome": "78.12"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+GC Conv (Proposed)"
+                },
+                "1": {
+                    "name": "framework",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "Sp",
+            "Outcome": "98.18"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+GC Conv (Proposed)"
+                },
+                "1": {
+                    "name": "framework",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "Acc",
+            "Outcome": "95.63"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "+GC Conv (Proposed)"
+                },
+                "1": {
+                    "name": "framework",
+                    "value": "U-Net"
+                }
+            },
+            "Measure": "AUROC",
+            "Outcome": "97.93"
+        }
+    }
+]

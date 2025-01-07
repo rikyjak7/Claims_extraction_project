@@ -1,0 +1,226 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SimSiam"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "[Chen and He,2021]"
+                },
+                "2": {
+                    "name": "Epoch",
+                    "value": "400"
+                },
+                "3": {
+                    "name": "Encoder",
+                    "value": "ResNet-50"
+                },
+                "4": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Acc",
+            "Outcome": "79.1"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MoCo v2"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "[Chen et al.,2020d]"
+                },
+                "2": {
+                    "name": "Epoch",
+                    "value": "400"
+                },
+                "3": {
+                    "name": "Encoder",
+                    "value": "ResNet-50"
+                },
+                "4": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Acc",
+            "Outcome": "79.6"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SimCLR"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "[Chen et al.,2020b]"
+                },
+                "2": {
+                    "name": "Epoch",
+                    "value": "800"
+                },
+                "3": {
+                    "name": "Encoder",
+                    "value": "ResNet-50"
+                },
+                "4": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Acc",
+            "Outcome": "79.9"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "BYOL"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "[Grill et al.,2020]"
+                },
+                "2": {
+                    "name": "Epoch",
+                    "value": "400"
+                },
+                "3": {
+                    "name": "Encoder",
+                    "value": "ResNet-50"
+                },
+                "4": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Acc",
+            "Outcome": "80.0"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SwAV"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "[Caron et al.,2020]"
+                },
+                "2": {
+                    "name": "Epoch",
+                    "value": "600"
+                },
+                "3": {
+                    "name": "Encoder",
+                    "value": "ResNet-50"
+                },
+                "4": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Acc",
+            "Outcome": "80.1"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "[Xie et al.,2023]"
+                },
+                "2": {
+                    "name": "Epoch",
+                    "value": "300"
+                },
+                "3": {
+                    "name": "Encoder",
+                    "value": "ResNet-50"
+                },
+                "4": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Acc",
+            "Outcome": "80.1"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MFM + Com/RCom"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "[Xie et al.,2023]"
+                },
+                "2": {
+                    "name": "Epoch",
+                    "value": "300"
+                },
+                "3": {
+                    "name": "Encoder",
+                    "value": "ResNet-50"
+                },
+                "4": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Acc",
+            "Outcome": "80.1"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "FOLK"
+                },
+                "1": {
+                    "name": "Ref",
+                    "value": "Ours"
+                },
+                "2": {
+                    "name": "Epoch",
+                    "value": "300"
+                },
+                "3": {
+                    "name": "Encoder",
+                    "value": "ResNet-50"
+                },
+                "4": {
+                    "name": "Dataset",
+                    "value": "ImageNet-1K"
+                }
+            },
+            "Measure": "Top-1 Acc",
+            "Outcome": "80.1"
+        }
+    }
+]

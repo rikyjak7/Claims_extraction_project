@@ -1,0 +1,194 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Pre-trainedBiomedCLIP"
+                },
+                "1": {
+                    "name": "Technique",
+                    "value": "M2IB"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "74.23"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Pre-trainedBiomedCLIP"
+                },
+                "1": {
+                    "name": "Technique",
+                    "value": "M2IB"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "78.47"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Pre-trainedBiomedCLIP"
+                },
+                "1": {
+                    "name": "Technique",
+                    "value": "gScoreCAM"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "59.86"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Pre-trainedBiomedCLIP"
+                },
+                "1": {
+                    "name": "Technique",
+                    "value": "gScoreCAM"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "62.96"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Pre-trainedBiomedCLIP"
+                },
+                "1": {
+                    "name": "Technique",
+                    "value": "GradCAM"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "28.78"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Pre-trainedBiomedCLIP"
+                },
+                "1": {
+                    "name": "Technique",
+                    "value": "GradCAM"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "31.87"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Fine-tunedBiomedCLIP"
+                },
+                "1": {
+                    "name": "Technique",
+                    "value": "M2IB"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "78.21"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Fine-tunedBiomedCLIP"
+                },
+                "1": {
+                    "name": "Technique",
+                    "value": "M2IB"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "82.57"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Fine-tunedBiomedCLIP"
+                },
+                "1": {
+                    "name": "Technique",
+                    "value": "gScoreCAM"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "61.73"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Fine-tunedBiomedCLIP"
+                },
+                "1": {
+                    "name": "Technique",
+                    "value": "gScoreCAM"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "64.99"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Fine-tunedBiomedCLIP"
+                },
+                "1": {
+                    "name": "Technique",
+                    "value": "GradCAM"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "30.60"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Model",
+                    "value": "Fine-tunedBiomedCLIP"
+                },
+                "1": {
+                    "name": "Technique",
+                    "value": "GradCAM"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "33.81"
+        }
+    }
+]

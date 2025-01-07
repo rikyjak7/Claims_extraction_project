@@ -1,0 +1,3522 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "93.56\u00b10.13"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "81.00\u00b11.01"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.38\u00b10.23"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "83.79\u00b10.58"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "93.87\u00b10.03"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "83.75\u00b10.89"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "93.93"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "82.85"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.07\u00b10.29"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "79.60\u00b15.06"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.29\u00b10.38"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "81.17\u00b13.72"
+        }
+    },
+    {
+        "12": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "93.64\u00b10.28"
+        }
+    },
+    {
+        "13": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "81.08\u00b14.97"
+        }
+    },
+    {
+        "14": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.00"
+        }
+    },
+    {
+        "15": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "80.62"
+        }
+    },
+    {
+        "16": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.28\u00b10.14"
+        }
+    },
+    {
+        "17": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "82.61\u00b10.67"
+        }
+    },
+    {
+        "18": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "86.65\u00b10.76"
+        }
+    },
+    {
+        "19": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "74.71\u00b12.07"
+        }
+    },
+    {
+        "20": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "92.36\u00b10.39"
+        }
+    },
+    {
+        "21": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "82.33\u00b11.24"
+        }
+    },
+    {
+        "22": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "91.09"
+        }
+    },
+    {
+        "23": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "79.88"
+        }
+    },
+    {
+        "24": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.28\u00b10.12"
+        }
+    },
+    {
+        "25": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "83.31\u00b11.10"
+        }
+    },
+    {
+        "26": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.49\u00b10.16"
+        }
+    },
+    {
+        "27": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "81.36\u00b12.51"
+        }
+    },
+    {
+        "28": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.57\u00b10.06"
+        }
+    },
+    {
+        "29": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "84.38\u00b11.39"
+        }
+    },
+    {
+        "30": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.45"
+        }
+    },
+    {
+        "31": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "83.02"
+        }
+    },
+    {
+        "32": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.57\u00b10.10"
+        }
+    },
+    {
+        "33": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "81.81\u00b10.76"
+        }
+    },
+    {
+        "34": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "93.67\u00b10.11"
+        }
+    },
+    {
+        "35": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "79.16\u00b11.80"
+        }
+    },
+    {
+        "36": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.82\u00b10.28"
+        }
+    },
+    {
+        "37": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "83.67\u00b10.60"
+        }
+    },
+    {
+        "38": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.35"
+        }
+    },
+    {
+        "39": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "81.55"
+        }
+    },
+    {
+        "40": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.73\u00b10.08"
+        }
+    },
+    {
+        "41": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "86.13\u00b10.07"
+        }
+    },
+    {
+        "42": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.73\u00b10.09"
+        }
+    },
+    {
+        "43": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "86.28\u00b10.58"
+        }
+    },
+    {
+        "44": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.45\u00b10.04"
+        }
+    },
+    {
+        "45": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "86.77\u00b10.19"
+        }
+    },
+    {
+        "46": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.64"
+        }
+    },
+    {
+        "47": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "86.57"
+        }
+    },
+    {
+        "48": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "89.33\u00b12.53"
+        }
+    },
+    {
+        "49": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "79.68\u00b12.42"
+        }
+    },
+    {
+        "50": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "93.44\u00b10.89"
+        }
+    },
+    {
+        "51": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "82.97\u00b10.01"
+        }
+    },
+    {
+        "52": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "91.51\u00b11.79"
+        }
+    },
+    {
+        "53": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "82.70\u00b11.34"
+        }
+    },
+    {
+        "54": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "91.42"
+        }
+    },
+    {
+        "55": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "81.78"
+        }
+    },
+    {
+        "56": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "91.79\u00b11.62"
+        }
+    },
+    {
+        "57": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "80.87\u00b10.11"
+        }
+    },
+    {
+        "58": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "92.57\u00b12.04"
+        }
+    },
+    {
+        "59": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "82.95\u00b11.62"
+        }
+    },
+    {
+        "60": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "93.66\u00b10.07"
+        }
+    },
+    {
+        "61": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "84.19\u00b11.79"
+        }
+    },
+    {
+        "62": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "92.67"
+        }
+    },
+    {
+        "63": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "82.67"
+        }
+    },
+    {
+        "64": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.28\u00b10.07"
+        }
+    },
+    {
+        "65": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "84.24\u00b10.10"
+        }
+    },
+    {
+        "66": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.11\u00b10.10"
+        }
+    },
+    {
+        "67": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "80.21\u00b10.64"
+        }
+    },
+    {
+        "68": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.84\u00b10.08"
+        }
+    },
+    {
+        "69": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "82.60\u00b10.32"
+        }
+    },
+    {
+        "70": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.74"
+        }
+    },
+    {
+        "71": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "82.35"
+        }
+    },
+    {
+        "72": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.86\u00b10.18"
+        }
+    },
+    {
+        "73": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "86.30\u00b10.53"
+        }
+    },
+    {
+        "74": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.96\u00b10.26"
+        }
+    },
+    {
+        "75": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "80.90\u00b10.30"
+        }
+    },
+    {
+        "76": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "96.32\u00b10.23"
+        }
+    },
+    {
+        "77": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "86.33\u00b10.34"
+        }
+    },
+    {
+        "78": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "96.05"
+        }
+    },
+    {
+        "79": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "84.51"
+        }
+    },
+    {
+        "80": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "96.34\u00b10.17"
+        }
+    },
+    {
+        "81": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "88.24\u00b10.16"
+        }
+    },
+    {
+        "82": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "96.10\u00b10.10"
+        }
+    },
+    {
+        "83": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "86.31\u00b10.13"
+        }
+    },
+    {
+        "84": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "96.34\u00b10.14"
+        }
+    },
+    {
+        "85": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "88.77\u00b10.21"
+        }
+    },
+    {
+        "86": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "96.26"
+        }
+    },
+    {
+        "87": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "87.87"
+        }
+    },
+    {
+        "88": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "89.67\u00b10.76"
+        }
+    },
+    {
+        "89": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "75.39\u00b13.22"
+        }
+    },
+    {
+        "90": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "87.97\u00b11.04"
+        }
+    },
+    {
+        "91": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "76.44\u00b13.48"
+        }
+    },
+    {
+        "92": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "89.91\u00b10.64"
+        }
+    },
+    {
+        "93": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "81.35\u00b12.81"
+        }
+    },
+    {
+        "94": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "89.18"
+        }
+    },
+    {
+        "95": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CSDG[25]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "77.73"
+        }
+    },
+    {
+        "96": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "90.75\u00b12.42"
+        }
+    },
+    {
+        "97": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "77.78\u00b14.23"
+        }
+    },
+    {
+        "98": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "90.37\u00b12.07"
+        }
+    },
+    {
+        "99": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "79.60\u00b13.34"
+        }
+    },
+    {
+        "100": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "90.34\u00b12.93"
+        }
+    },
+    {
+        "101": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "79.99\u00b14.02"
+        }
+    },
+    {
+        "102": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "90.48"
+        }
+    },
+    {
+        "103": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "ADS[31]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "79.12"
+        }
+    },
+    {
+        "104": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "91.63\u00b10.12"
+        }
+    },
+    {
+        "105": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "78.74\u00b11.95"
+        }
+    },
+    {
+        "106": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "90.61\u00b10.45"
+        }
+    },
+    {
+        "107": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "80.12\u00b10.90"
+        }
+    },
+    {
+        "108": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "91.22\u00b10.07"
+        }
+    },
+    {
+        "109": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "81.90\u00b11.14"
+        }
+    },
+    {
+        "110": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "91.15"
+        }
+    },
+    {
+        "111": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "MaxStyle[3]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "80.25"
+        }
+    },
+    {
+        "112": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "93.08\u00b10.17"
+        }
+    },
+    {
+        "113": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "80.70\u00b10.35"
+        }
+    },
+    {
+        "114": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "92.70\u00b10.12"
+        }
+    },
+    {
+        "115": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "80.15\u00b10.43"
+        }
+    },
+    {
+        "116": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "92.23\u00b10.16"
+        }
+    },
+    {
+        "117": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "80.89\u00b10.14"
+        }
+    },
+    {
+        "118": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "92.67"
+        }
+    },
+    {
+        "119": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SLAug[28]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "80.58"
+        }
+    },
+    {
+        "120": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "92.35\u00b10.37"
+        }
+    },
+    {
+        "121": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "79.02\u00b10.39"
+        }
+    },
+    {
+        "122": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "91.23\u00b10.29"
+        }
+    },
+    {
+        "123": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "80.06\u00b10.26"
+        }
+    },
+    {
+        "124": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "92.09\u00b10.28"
+        }
+    },
+    {
+        "125": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "79.87\u00b10.25"
+        }
+    },
+    {
+        "126": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "91.89"
+        }
+    },
+    {
+        "127": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "D-Norm[36]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "79.65"
+        }
+    },
+    {
+        "128": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.78\u00b10.03"
+        }
+    },
+    {
+        "129": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "84.94\u00b10.36"
+        }
+    },
+    {
+        "130": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.16\u00b10.09"
+        }
+    },
+    {
+        "131": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "85.68\u00b10.28"
+        }
+    },
+    {
+        "132": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.00\u00b10.09"
+        }
+    },
+    {
+        "133": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "85.98\u00b10.29"
+        }
+    },
+    {
+        "134": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "94.98"
+        }
+    },
+    {
+        "135": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "CCSDG[14]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "85.53"
+        }
+    },
+    {
+        "136": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "82.45\u00b12.61"
+        }
+    },
+    {
+        "137": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "69.66\u00b12.94"
+        }
+    },
+    {
+        "138": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "84.97\u00b10.32"
+        }
+    },
+    {
+        "139": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "75.75\u00b11.36"
+        }
+    },
+    {
+        "140": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "83.86\u00b12.99"
+        }
+    },
+    {
+        "141": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "74.74\u00b12.54"
+        }
+    },
+    {
+        "142": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "83.76"
+        }
+    },
+    {
+        "143": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][w]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "73.38"
+        }
+    },
+    {
+        "144": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "81.39\u00b13.29"
+        }
+    },
+    {
+        "145": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "67.88\u00b13.02"
+        }
+    },
+    {
+        "146": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "83.95\u00b10.93"
+        }
+    },
+    {
+        "147": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "76.33\u00b10.11"
+        }
+    },
+    {
+        "148": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "79.99\u00b11.65"
+        }
+    },
+    {
+        "149": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "73.05\u00b11.45"
+        }
+    },
+    {
+        "150": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "84.50"
+        }
+    },
+    {
+        "151": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DeSAM[9][g]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "72.42"
+        }
+    },
+    {
+        "152": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.41\u00b10.10"
+        }
+    },
+    {
+        "153": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "85.26\u00b10.38"
+        }
+    },
+    {
+        "154": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.36\u00b10.13"
+        }
+    },
+    {
+        "155": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "84.25\u00b10.27"
+        }
+    },
+    {
+        "156": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.38\u00b10.10"
+        }
+    },
+    {
+        "157": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "84.76\u00b10.28"
+        }
+    },
+    {
+        "158": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.38"
+        }
+    },
+    {
+        "159": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "SAMed[33]"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "84.76"
+        }
+    },
+    {
+        "160": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.50\u00b10.33"
+        }
+    },
+    {
+        "161": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "86.63\u00b10.22"
+        }
+    },
+    {
+        "162": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.88\u00b10.24"
+        }
+    },
+    {
+        "163": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "88.29\u00b10.35"
+        }
+    },
+    {
+        "164": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "96.37\u00b10.23"
+        }
+    },
+    {
+        "165": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "87.61\u00b10.30"
+        }
+    },
+    {
+        "166": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "95.92"
+        }
+    },
+    {
+        "167": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "Baseline"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "87.51"
+        }
+    },
+    {
+        "168": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "96.22\u00b10.18"
+        }
+    },
+    {
+        "169": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE1"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "86.74\u00b10.36"
+        }
+    },
+    {
+        "170": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "96.32\u00b10.16"
+        }
+    },
+    {
+        "171": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE2"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "89.59\u00b10.24"
+        }
+    },
+    {
+        "172": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "96.35\u00b10.20"
+        }
+    },
+    {
+        "173": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "BASE3"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "88.12\u00b10.22"
+        }
+    },
+    {
+        "174": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OD}$"
+                }
+            },
+            "Measure": "$D_{OD}$",
+            "Outcome": "96.30"
+        }
+    },
+    {
+        "175": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "DAPSAM"
+                },
+                "1": {
+                    "name": "BASE",
+                    "value": "Average"
+                },
+                "2": {
+                    "name": "Metric",
+                    "value": "$D_{OC}$"
+                }
+            },
+            "Measure": "$D_{OC}$",
+            "Outcome": "88.15"
+        }
+    }
+]

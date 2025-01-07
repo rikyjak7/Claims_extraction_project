@@ -1,0 +1,146 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "1: Saliency Maps"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "46.23"
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "1: Saliency Maps"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "50.50"
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2: + DHN-NCE Fine-tuning"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "49.10"
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "2: + DHN-NCE Fine-tuning"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "53.54"
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "3: + K-Means Post-processing"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "52.14"
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "3: + K-Means Post-processing"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "55.89"
+        }
+    },
+    {
+        "6": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "4: + Area-based Filtering"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "58.80"
+        }
+    },
+    {
+        "7": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "4: + Area-based Filtering"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "63.10"
+        }
+    },
+    {
+        "8": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "5: + SAM"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "78.21"
+        }
+    },
+    {
+        "9": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "5: + SAM"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "82.57"
+        }
+    },
+    {
+        "10": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "6: + nnUNet Ensemble"
+                }
+            },
+            "Measure": "DSC",
+            "Outcome": "82.11"
+        }
+    },
+    {
+        "11": {
+            "specifications": {
+                "0": {
+                    "name": "Method",
+                    "value": "6: + nnUNet Ensemble"
+                }
+            },
+            "Measure": "NSD",
+            "Outcome": "87.33"
+        }
+    }
+]

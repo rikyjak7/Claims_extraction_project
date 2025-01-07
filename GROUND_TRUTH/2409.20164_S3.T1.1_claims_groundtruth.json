@@ -1,0 +1,74 @@
+[
+    {
+        "0": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "Standard"
+                }
+            },
+            "Measure": "Description",
+            "Outcome": "No data augmentation is applied, with the algorithm being trained solely on the original dataset provided."
+        }
+    },
+    {
+        "1": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "Basic"
+                }
+            },
+            "Measure": "Description",
+            "Outcome": "Dataset undergoes a sequence of transformations, including horizontal flipping, random rotation, brightness and contrast adjustments, and elastic deformation."
+        }
+    },
+    {
+        "2": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "RandomErasing"
+                }
+            },
+            "Measure": "Description",
+            "Outcome": "Randomly selects a rectangle region in an image and erases its pixels with random values."
+        }
+    },
+    {
+        "3": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "Cutout"
+                }
+            },
+            "Measure": "Description",
+            "Outcome": "Cutout employs a fixed-size square area, filled entirely with 0 (black), and permits the square area to extend outside the image."
+        }
+    },
+    {
+        "4": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "CutMix"
+                }
+            },
+            "Measure": "Description", 
+            "Outcome": "Randomly select two images, and randomly crop a rectangular area from each image. Then, exchange the cropped areas between the two images and merge them into a new image."
+        }
+    },
+    {
+        "5": {
+            "specifications": {
+                "0": {
+                    "name": "Methods",
+                    "value": "GridMask"
+                }
+            },
+            "Measure": "Description",
+            "Outcome": "Generate a structured grid array first, and then erase the image information within the grid cells"
+        }
+    }
+]

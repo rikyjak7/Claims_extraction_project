@@ -1,7 +1,6 @@
 Materiale da relazione:
-1)Abbiamo eliminato 2 tabelle in quanto avevano chiavi duplicate
-2)Eliminato file inappropriato
-3)Verifiche sui claims estratti:
+
+1)Verifiche sui claims estratti:
 
     TABELLE MALFORMATE
     paper 11508 tabella 6° e 9° unite ma comunque estratti i claims in maniera valida - (ground-truth)
@@ -27,11 +26,3 @@ Materiale da relazione:
     S3.T2.140 tabella nested cross table perfetta
 
     NUMERO DI TABELLE MODIFICATE A POSTERIORI DAGLI AUTORI REALI = 4
-
-Still to be done:
-1)Estrarre i claims come se fossero all-specifications-made, poi con LLM:
--tiriamo fuori(per ogni claim) dalle specifications la metrica e il suo value 
--troviamo eventuali nuove specifications da caption e rerference e li aggiungiamo ai vari claims
-(Potenzialmente con 2 prompt diversi)
-2)Modifica prompt per precedenza alla caption
-3)Valutare l'estrazione di nested cross-table

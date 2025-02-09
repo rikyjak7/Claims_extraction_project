@@ -150,6 +150,6 @@ mapping={
     "-none-": ["-none-"]
 }
 
-output_filename = "Measure_alignement.json"
+output_filename = "Measure_alignement.json" # RIC_CRI_GAB_ALIGNEMENT.json
 
 align_claims_measures(input_directory, mapping, output_filename)
